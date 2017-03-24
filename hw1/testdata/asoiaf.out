@@ -1,0 +1,3261 @@
+> R asoiaf.dat
+> P
+1. Wyman Webber: 500 buses, 2279 passengers
+2. Serwyn: 500 buses, 576 passengers
+3. Aggo: 500 buses, 417 passengers
+4. Wendell Webber: 499 buses, 1614 passengers
+5. Merrell Florent: 499 buses, 1542 passengers
+6. Sybelle Locke: 499 buses, 127 passengers
+7. Daemon II Blackfyre: 498 buses, 2576 passengers
+8. Alia Of Braavos: 498 buses, 2328 passengers
+9. Willem Frey: 498 buses, 1923 passengers
+10. Tristifer V Mudd: 497 buses, 2474 passengers
+11. Morosh: 497 buses, 1802 passengers
+12. Yoren: 497 buses, 1214 passengers
+13. Tomard: 497 buses, 193 passengers
+14. Anvil Ryn: 496 buses, 2275 passengers
+15. Sarella Sand: 496 buses, 892 passengers
+16. Roger Of Pennytree: 496 buses, 110 passengers
+17. Robert Brax: 495 buses, 1996 passengers
+18. Dormund: 495 buses, 1101 passengers
+19. Igon Vyrwel: 495 buses, 306 passengers
+20. Eroeh: 494 buses, 2001 passengers
+21. Symon Santagar: 494 buses, 1836 passengers
+22. Tommard Heddle: 494 buses, 103 passengers
+23. Gormon Peake: 493 buses, 1848 passengers
+24. Gulian: 493 buses, 1813 passengers
+25. Tim Stone: 493 buses, 623 passengers
+26. Jon Arryn: 492 buses, 2459 passengers
+27. Androw Frey: 492 buses, 2108 passengers
+28. Edwyn Stark: 492 buses, 2106 passengers
+29. Clement Piper: 492 buses, 2038 passengers
+30. Marya Seaworth: 491 buses, 2948 passengers
+31. Damon Shett: 491 buses, 1699 passengers
+32. Gergen: 491 buses, 1302 passengers
+33. Harwyn Hoare: 491 buses, 615 passengers
+34. Leana Frey: 490 buses, 2400 passengers
+35. Desmond: 490 buses, 1143 passengers
+36. Sigorn: 490 buses, 717 passengers
+37. Tytos Frey: 489 buses, 1433 passengers
+38. Armen: 489 buses, 957 passengers
+39. Creylen: 489 buses, 448 passengers
+40. Damon Paege: 488 buses, 2944 passengers
+41. Steffarion Sparr: 488 buses, 2690 passengers
+42. Martyn Lannister: 488 buses, 1241 passengers
+43. Lorcas: 488 buses, 224 passengers
+44. Myria Jordayne: 487 buses, 2547 passengers
+45. Morton Waynwood: 487 buses, 2456 passengers
+46. Lorent Lorch: 487 buses, 2212 passengers
+47. Serenei Of Lys: 486 buses, 2773 passengers
+48. Brandon Tallhart: 486 buses, 1687 passengers
+49. Weese: 486 buses, 1393 passengers
+50. Sylas Flatnose: 486 buses, 45 passengers
+51. Donnel Locke: 485 buses, 2886 passengers
+52. Byren Flowers: 485 buses, 2449 passengers
+53. Shirei Frey: 485 buses, 900 passengers
+54. Jeffory Norcross: 484 buses, 2316 passengers
+55. Qarlton Chelsted: 484 buses, 1693 passengers
+56. Titus Peake: 484 buses, 540 passengers
+57. Ygon Farwynd: 484 buses, 304 passengers
+58. Gerold Hightower: 483 buses, 1584 passengers
+59. Noho Dimittis: 483 buses, 481 passengers
+60. Meredyth Crane: 483 buses, 265 passengers
+61. Dyah: 482 buses, 915 passengers
+62. Robar Royce: 482 buses, 694 passengers
+63. Trebor Jordayne: 482 buses, 328 passengers
+64. Cayn: 481 buses, 2979 passengers
+65. Wynton Stout: 481 buses, 1238 passengers
+66. Shyra Errol: 481 buses, 493 passengers
+67. Henk: 481 buses, 235 passengers
+68. Alysanne Lefford: 480 buses, 2875 passengers
+69. Karlon Stark: 480 buses, 2233 passengers
+70. Cass: 480 buses, 1374 passengers
+71. Cassana Estermont: 479 buses, 2984 passengers
+72. Bowen Marsh: 479 buses, 2873 passengers
+73. Androw Ashford: 479 buses, 1389 passengers
+74. Eyron Stark: 478 buses, 2784 passengers
+75. Tregar: 478 buses, 1273 passengers
+76. Alyn Haigh: 478 buses, 1086 passengers
+77. Aegor Rivers: 477 buses, 315 passengers
+78. Jodge: 477 buses, 175 passengers
+79. Plummer: 476 buses, 2823 passengers
+80. Castos: 476 buses, 2193 passengers
+81. Lyonel Baratheon: 476 buses, 1867 passengers
+82. Dickon Manwoody: 475 buses, 2838 passengers
+83. Tanton Fossoway: 475 buses, 2419 passengers
+84. Philip Plumm: 475 buses, 910 passengers
+85. Jeyne Poole: 475 buses, 579 passengers
+86. Joanna Swyft: 474 buses, 1816 passengers
+87. Lem: 474 buses, 1441 passengers
+88. Oswell Whent: 474 buses, 472 passengers
+89. Hostella Frey: 473 buses, 530 passengers
+90. Cerrick: 473 buses, 390 passengers
+91. Janna Tyrell: 473 buses, 195 passengers
+92. Erreck: 472 buses, 2269 passengers
+93. Allyria Dayne: 472 buses, 428 passengers
+94. Maron Botley: 472 buses, 240 passengers
+95. Howland Reed: 471 buses, 1838 passengers
+96. Meribald: 471 buses, 1443 passengers
+97. Ronel Rivers: 471 buses, 148 passengers
+98. Devan Seaworth: 470 buses, 2462 passengers
+99. Morgan Dunstable: 470 buses, 2077 passengers
+100. Viserys Plumm: 470 buses, 401 passengers
+101. Jeyne: 469 buses, 2683 passengers
+102. Donnor Saltcliffe: 469 buses, 1043 passengers
+103. Dobber: 469 buses, 444 passengers
+104. Gorold Goodbrother: 469 buses, 64 passengers
+105. Mordane: 468 buses, 2063 passengers
+106. Robert Frey: 468 buses, 1539 passengers
+107. Umfred: 468 buses, 1159 passengers
+108. Lewyn Martell: 468 buses, 252 passengers
+109. Ned: 467 buses, 2926 passengers
+110. Emmon Cuy: 467 buses, 157 passengers
+111. Harras Harlaw: 467 buses, 25 passengers
+112. Nights King: 466 buses, 1425 passengers
+113. Joseran: 466 buses, 1189 passengers
+114. Garrison Prester: 466 buses, 779 passengers
+115. Carrot: 465 buses, 2714 passengers
+116. Mortimer Boggs: 465 buses, 1198 passengers
+117. Elinor Tyrell: 465 buses, 628 passengers
+118. Alebelly: 464 buses, 2949 passengers
+119. Quentyn Qorgyle: 464 buses, 1825 passengers
+120. Lenn: 464 buses, 1456 passengers
+121. Podrick Payne: 464 buses, 1210 passengers
+122. Haegon Blackfyre: 463 buses, 1898 passengers
+123. Aeron Greyjoy: 463 buses, 1753 passengers
+124. Ellery Vance: 463 buses, 463 passengers
+125. Lucas Corbray: 462 buses, 2481 passengers
+126. Forley Prester: 462 buses, 1971 passengers
+127. Ormond: 462 buses, 1473 passengers
+128. Shyra: 462 buses, 1011 passengers
+129. Marianne Vance: 461 buses, 1707 passengers
+130. Rhaego: 461 buses, 924 passengers
+131. Maric Seaworth: 461 buses, 284 passengers
+132. Gage: 460 buses, 1907 passengers
+133. Garth Gardener: 460 buses, 1506 passengers
+134. Balon Swann: 460 buses, 450 passengers
+135. Errok: 459 buses, 2033 passengers
+136. Eggon: 459 buses, 1696 passengers
+137. Thoros Of Myr: 459 buses, 1353 passengers
+138. Jennelyn Fowler: 458 buses, 1474 passengers
+139. Gareth the Grey: 458 buses, 1330 passengers
+140. Rolph Spicer: 458 buses, 1042 passengers
+141. Thormor: 457 buses, 2807 passengers
+142. Arson: 457 buses, 2636 passengers
+143. Raymar Royce: 457 buses, 1868 passengers
+144. Terro: 456 buses, 2748 passengers
+145. Sand Snakes: 456 buses, 791 passengers
+146. Jeffory Mallister: 456 buses, 722 passengers
+147. Mollander: 456 buses, 26 passengers
+148. Dirk: 455 buses, 1643 passengers
+149. Black Walder Frey: 455 buses, 1400 passengers
+150. Reynard Webber: 455 buses, 1307 passengers
+151. Beth Cassel: 454 buses, 2262 passengers
+152. Elwood: 454 buses, 1417 passengers
+153. Olenna Redwyne: 454 buses, 1018 passengers
+154. Martyn Rivers: 453 buses, 1762 passengers
+155. Andrey Charlton: 453 buses, 1464 passengers
+156. Jared Frey: 453 buses, 1016 passengers
+157. Alyx Frey: 452 buses, 2932 passengers
+158. Ghost Of High Heart: 452 buses, 2779 passengers
+159. Alys Karstark: 452 buses, 2242 passengers
+160. Grey Worm: 452 buses, 739 passengers
+161. Jeyne Lydden: 451 buses, 2514 passengers
+162. Alyn Connington: 451 buses, 1951 passengers
+163. Lymond Goodbrook: 451 buses, 207 passengers
+164. Timon: 450 buses, 2485 passengers
+165. Zia Frey: 450 buses, 1477 passengers
+166. Khal Drogo: 450 buses, 1072 passengers
+167. Chiggen: 449 buses, 2558 passengers
+168. Ghael: 449 buses, 2538 passengers
+169. Weasel: 449 buses, 154 passengers
+170. Selyse Florent: 448 buses, 2904 passengers
+171. Sawwood: 448 buses, 2685 passengers
+172. Kirth Vance: 448 buses, 1671 passengers
+173. Benfrey Frey: 448 buses, 906 passengers
+174. Rus: 447 buses, 978 passengers
+175. Polliver: 447 buses, 90 passengers
+176. Elyana Vypren: 447 buses, 39 passengers
+177. Lord Cafferen: 446 buses, 1815 passengers
+178. Durran: 446 buses, 689 passengers
+179. Varly: 446 buses, 583 passengers
+180. Willem Lannister: 445 buses, 2398 passengers
+181. Bennarion Botley: 445 buses, 1470 passengers
+182. Cellador: 445 buses, 1343 passengers
+183. Cutjack: 444 buses, 2774 passengers
+184. Gillam: 444 buses, 2076 passengers
+185. Mero: 444 buses, 1336 passengers
+186. Luco Prestayn: 443 buses, 2980 passengers
+187. Salloreon: 443 buses, 2894 passengers
+188. Harwyn Plumm: 443 buses, 140 passengers
+189. Alys Frey: 442 buses, 2745 passengers
+190. Leo Tyrell: 442 buses, 1952 passengers
+191. Biter: 442 buses, 1793 passengers
+192. Watt Of Long Lake: 441 buses, 2775 passengers
+193. Clement: 441 buses, 2534 passengers
+194. Manfryd Yew: 441 buses, 464 passengers
+195. Stannis Seaworth: 440 buses, 2374 passengers
+196. Jorgen: 440 buses, 1142 passengers
+197. Leo Lefford: 440 buses, 673 passengers
+198. Craster: 439 buses, 2620 passengers
+199. Naggle: 439 buses, 2397 passengers
+200. Bonifer Hasty: 439 buses, 2234 passengers
+201. Jon Cupps: 438 buses, 1976 passengers
+202. Robin Potter: 438 buses, 806 passengers
+203. Armen the Acolyte: 438 buses, 331 passengers
+204. Tremond Gargalen: 437 buses, 963 passengers
+205. Gormond Goodbrother: 437 buses, 914 passengers
+206. Sallei Paege: 437 buses, 528 passengers
+207. Waltyr Frey: 436 buses, 2893 passengers
+208. Cassella Vaith: 436 buses, 2046 passengers
+209. Zollo: 436 buses, 1784 passengers
+210. Masha Heddle: 435 buses, 2451 passengers
+211. Ferny: 435 buses, 1622 passengers
+212. Carolei Waynwood: 435 buses, 1226 passengers
+213. Gwin Goodbrother: 435 buses, 1148 passengers
+214. Willow Heddle: 434 buses, 2853 passengers
+215. Maggy: 434 buses, 2653 passengers
+216. Harwood Fell: 434 buses, 1099 passengers
+217. Robin Moreland: 434 buses, 163 passengers
+218. Tothmure: 433 buses, 2918 passengers
+219. Rhaegar Targaryen: 433 buses, 702 passengers
+220. Cortnay Penrose: 433 buses, 575 passengers
+221. Dennis Plumm: 432 buses, 2442 passengers
+222. Jon Pox: 432 buses, 1632 passengers
+223. Cragorn: 432 buses, 1228 passengers
+224. Melessa Florent: 432 buses, 828 passengers
+225. Lommy Greenhands: 431 buses, 2594 passengers
+226. Quort: 431 buses, 1513 passengers
+227. Koss: 431 buses, 1368 passengers
+228. Raymund Tyrell: 430 buses, 1926 passengers
+229. Burton Crakehall: 430 buses, 1156 passengers
+230. Delp: 430 buses, 97 passengers
+231. Gilly: 429 buses, 2073 passengers
+232. Falia Flowers: 429 buses, 1573 passengers
+233. Tygett Lannister: 429 buses, 1329 passengers
+234. Big Boil: 429 buses, 1126 passengers
+235. Hali: 428 buses, 1812 passengers
+236. Bethany Ryswell: 428 buses, 778 passengers
+237. Marwyn Belmore: 428 buses, 491 passengers
+238. Luwin: 427 buses, 1857 passengers
+239. Alleras: 427 buses, 1602 passengers
+240. Wynafrei Whent: 427 buses, 13 passengers
+241. Jacelyn Bywater: 426 buses, 2187 passengers
+242. Dickon Tarly: 426 buses, 1561 passengers
+243. Khorane Sathmantes: 426 buses, 398 passengers
+244. Arthur Ambrose: 425 buses, 1691 passengers
+245. Wendamyr: 425 buses, 951 passengers
+246. Larra Blackmont: 425 buses, 699 passengers
+247. Simon Leygood: 424 buses, 1644 passengers
+248. Abelar Hightower: 424 buses, 823 passengers
+249. Shiera Crakehall: 424 buses, 307 passengers
+250. Lucas Roote: 423 buses, 2880 passengers
+251. Edmure Tully: 423 buses, 1090 passengers
+252. Waldon Wynch: 423 buses, 165 passengers
+253. Desmera Redwyne: 422 buses, 1583 passengers
+254. Harodon: 422 buses, 787 passengers
+255. H: 422 buses, 437 passengers
+256. Raymun Darry: 421 buses, 2302 passengers
+257. Addam Osgrey: 421 buses, 547 passengers
+258. Edwyn Frey: 421 buses, 279 passengers
+259. Groleo: 420 buses, 1803 passengers
+260. Tyta Frey: 420 buses, 1599 passengers
+261. Rodrik Freeborn: 420 buses, 509 passengers
+262. Antario Jast: 419 buses, 2680 passengers
+263. Werlag: 419 buses, 2218 passengers
+264. Humfrey Waters: 419 buses, 1229 passengers
+265. Eden Risley: 418 buses, 2670 passengers
+266. Danwell Frey: 418 buses, 1839 passengers
+267. Daemon Sand: 418 buses, 1174 passengers
+268. Wilbert: 417 buses, 1841 passengers
+269. Aethelmure: 417 buses, 1598 passengers
+270. Tytos Blackwood: 417 buses, 1505 passengers
+271. Mag Mar Tun Doh Weg: 416 buses, 2499 passengers
+272. Hayhead: 416 buses, 2266 passengers
+273. Otter Gimpknee: 416 buses, 420 passengers
+274. Hibald: 415 buses, 1858 passengers
+275. Ulrick Dayne: 415 buses, 1852 passengers
+276. Ronnel Harclay: 415 buses, 1757 passengers
+277. Ryk: 414 buses, 2863 passengers
+278. Robert Baratheon: 414 buses, 2385 passengers
+279. Ramsay Bolton: 414 buses, 2268 passengers
+280. Tytos Lannister: 414 buses, 1323 passengers
+281. Baelor Blacktyde: 413 buses, 1114 passengers
+282. Leonette Fossoway: 413 buses, 749 passengers
+283. Maddy: 413 buses, 690 passengers
+284. Tobho Mott: 413 buses, 268 passengers
+285. Denyse Hightower: 412 buses, 1447 passengers
+286. Grazdan: 412 buses, 570 passengers
+287. Medwick Tyrell: 412 buses, 314 passengers
+288. Robin: 412 buses, 229 passengers
+289. Joffrey Caswell: 411 buses, 1462 passengers
+290. Fair Walda Frey: 411 buses, 904 passengers
+291. Aemon Targaryen: 411 buses, 57 passengers
+292. Alyn: 410 buses, 2861 passengers
+293. Erren Florent: 410 buses, 2536 passengers
+294. Satin: 410 buses, 1705 passengers
+295. Kromm: 409 buses, 2632 passengers
+296. Patchface: 409 buses, 470 passengers
+297. Tallad: 409 buses, 425 passengers
+298. Harbert Paege: 408 buses, 2054 passengers
+299. Elenya Westerling: 408 buses, 1088 passengers
+300. Mors Umber: 408 buses, 853 passengers
+301. Melly: 408 buses, 772 passengers
+302. Kyle Condon: 407 buses, 2761 passengers
+303. Boremund Harlaw: 407 buses, 1780 passengers
+304. Mallador Locke: 407 buses, 402 passengers
+305. Gowen Baratheon: 406 buses, 2367 passengers
+306. Jonella Cerwyn: 406 buses, 887 passengers
+307. Qyle: 406 buses, 159 passengers
+308. Frynne: 405 buses, 2644 passengers
+309. Rodrik Greyjoy: 405 buses, 1265 passengers
+310. Randyll Tarly: 405 buses, 413 passengers
+311. Dagos Manwoody: 404 buses, 2292 passengers
+312. Mylessa Blackwood: 404 buses, 2010 passengers
+313. Otho Bracken: 404 buses, 17 passengers
+314. Hugo Vance: 403 buses, 2399 passengers
+315. Layna: 403 buses, 2247 passengers
+316. Willam Dustin: 403 buses, 1888 passengers
+317. Maege Mormont: 403 buses, 1475 passengers
+318. Hoke: 402 buses, 2415 passengers
+319. Elia Sand: 402 buses, 1719 passengers
+320. Dunstan Drumm: 402 buses, 86 passengers
+321. Lynesse Hightower: 401 buses, 1925 passengers
+322. Haereg: 401 buses, 724 passengers
+323. Edderion Stark: 401 buses, 46 passengers
+324. Lucas Tyrell: 400 buses, 1517 passengers
+325. Timeon: 400 buses, 1222 passengers
+326. Myles Manwoody: 400 buses, 775 passengers
+327. Rhea Florent: 399 buses, 2571 passengers
+328. Morra: 399 buses, 1625 passengers
+329. Steffon Swyft: 399 buses, 467 passengers
+330. Olyvar Frey: 398 buses, 2093 passengers
+331. Brynden Rivers: 398 buses, 2064 passengers
+332. Garin: 398 buses, 1361 passengers
+333. Perwyn Osgrey: 397 buses, 2832 passengers
+334. Harry Sawyer: 397 buses, 2128 passengers
+335. Gascoyne: 397 buses, 1003 passengers
+336. Wilbert Osgrey: 396 buses, 2897 passengers
+337. Jojen Reed: 396 buses, 2143 passengers
+338. Warren: 396 buses, 1394 passengers
+339. Luke: 396 buses, 1146 passengers
+340. Halmon Paege: 395 buses, 2672 passengers
+341. Lyman Darry: 395 buses, 2244 passengers
+342. Denyo Terys: 395 buses, 1067 passengers
+343. Anders Yronwood: 395 buses, 745 passengers
+344. Beron Blacktyde: 394 buses, 2050 passengers
+345. Tyana Wylde: 394 buses, 1818 passengers
+346. Yohn Farwynd: 394 buses, 923 passengers
+347. Lorent Tyrell: 393 buses, 2195 passengers
+348. Marei: 393 buses, 1927 passengers
+349. Betharios Of Braavos: 393 buses, 1546 passengers
+350. Rakharo: 392 buses, 1341 passengers
+351. Myranda Royce: 392 buses, 264 passengers
+352. Harys Swyft: 392 buses, 255 passengers
+353. Tyrion Lannister: 391 buses, 2161 passengers
+354. Notch: 391 buses, 2107 passengers
+355. Rufus Leek: 391 buses, 1062 passengers
+356. Guthor Grimm: 390 buses, 2570 passengers
+357. Endrew Tarth: 390 buses, 2235 passengers
+358. Chayle: 390 buses, 105 passengers
+359. Sam Stoops: 389 buses, 1658 passengers
+360. Lync: 389 buses, 1149 passengers
+361. Lorimer: 389 buses, 404 passengers
+362. Lancel Lannister: 388 buses, 2647 passengers
+363. Walder Vance: 388 buses, 2100 passengers
+364. Dorna Swyft: 388 buses, 98 passengers
+365. Lymond Lychester: 387 buses, 2089 passengers
+366. Leobald Tallhart: 387 buses, 1685 passengers
+367. Jon Bulwer: 387 buses, 777 passengers
+368. Alla Tyrell: 387 buses, 508 passengers
+369. Donal Noye: 386 buses, 1377 passengers
+370. Steffon Stackspear: 386 buses, 949 passengers
+371. Bluetooth: 386 buses, 646 passengers
+372. Orys Baratheon: 385 buses, 2147 passengers
+373. Ygritte: 385 buses, 2083 passengers
+374. Myrcella Baratheon: 385 buses, 1288 passengers
+375. Ryam Redwyne: 385 buses, 641 passengers
+376. Kella: 384 buses, 2840 passengers
+377. Erik: 384 buses, 1176 passengers
+378. Aron Santagar: 384 buses, 1037 passengers
+379. Harlan Hunter: 384 buses, 323 passengers
+380. Jeyne Rivers: 383 buses, 2304 passengers
+381. Glendon Flowers: 383 buses, 2072 passengers
+382. Rycherd Crane: 383 buses, 217 passengers
+383. Edmund Ambrose: 382 buses, 2207 passengers
+384. Old Tattersalt: 382 buses, 849 passengers
+385. Deremond: 382 buses, 223 passengers
+386. Lennocks: 381 buses, 2767 passengers
+387. Manfrey Martell: 381 buses, 2280 passengers
+388. Orland: 381 buses, 2058 passengers
+389. Ilyn Payne: 380 buses, 2919 passengers
+390. Marissa Frey: 380 buses, 2092 passengers
+391. Murch: 380 buses, 248 passengers
+392. Daenerys Targaryen: 379 buses, 2126 passengers
+393. Minisa Whent: 379 buses, 1889 passengers
+394. Rosamund Lannister: 379 buses, 1528 passengers
+395. Harrag Hoare: 378 buses, 2282 passengers
+396. Tommen Baratheon: 378 buses, 1726 passengers
+397. Will Humble: 378 buses, 1615 passengers
+398. Ambrose Butterwell: 377 buses, 1791 passengers
+399. Pylos: 377 buses, 1724 passengers
+400. Marq Piper: 377 buses, 1233 passengers
+401. Oro Tendyris: 377 buses, 820 passengers
+402. Ulwyck Uller: 376 buses, 1047 passengers
+403. Munda: 376 buses, 566 passengers
+404. Whalen Frey: 376 buses, 317 passengers
+405. Colemon: 375 buses, 2208 passengers
+406. Hosteen Frey: 375 buses, 1887 passengers
+407. Warryn Beesbury: 375 buses, 485 passengers
+408. Heward: 374 buses, 2946 passengers
+409. Willam Wythers: 374 buses, 2884 passengers
+410. Marlon Manderly: 374 buses, 1525 passengers
+411. Zhoe Blanetree: 374 buses, 1104 passengers
+412. Roger Ryswell: 373 buses, 2461 passengers
+413. Cohollo: 373 buses, 369 passengers
+414. Selwyn Tarth: 373 buses, 244 passengers
+415. Aegon V Targaryen: 372 buses, 2982 passengers
+416. Tysha: 372 buses, 2942 passengers
+417. Prendahl na Ghezn: 372 buses, 2263 passengers
+418. Clydas: 371 buses, 2586 passengers
+419. Timoth: 371 buses, 2413 passengers
+420. Wylis Manderly: 371 buses, 1833 passengers
+421. Lord Ashford: 371 buses, 855 passengers
+422. Mellei: 370 buses, 2713 passengers
+423. Bael: 370 buses, 1995 passengers
+424. Myles Mooton: 370 buses, 1759 passengers
+425. Jon Vance: 369 buses, 2615 passengers
+426. Cleos Frey: 369 buses, 2441 passengers
+427. Cedrik Storm: 369 buses, 1191 passengers
+428. Garth Hightower: 368 buses, 2817 passengers
+429. Ben: 368 buses, 1564 passengers
+430. Leonella Lefford: 368 buses, 1305 passengers
+431. Gunthor: 367 buses, 2593 passengers
+432. Beric Dondarrion: 367 buses, 1227 passengers
+433. Bannen: 367 buses, 598 passengers
+434. Steffon Frey: 366 buses, 804 passengers
+435. Ferrego Antaryon: 366 buses, 365 passengers
+436. Willam: 366 buses, 340 passengers
+437. Megga Tyrell: 365 buses, 2541 passengers
+438. Jon Lynderly: 365 buses, 1835 passengers
+439. Eddard Karstark: 365 buses, 640 passengers
+440. Robert Ashford: 365 buses, 510 passengers
+441. Lenwood Tawney: 364 buses, 2341 passengers
+442. Petyr Frey: 364 buses, 1915 passengers
+443. Crawn: 364 buses, 941 passengers
+444. Ronnet Connington: 364 buses, 677 passengers
+445. Maslyn: 363 buses, 2913 passengers
+446. Olyvar Oakheart: 363 buses, 2747 passengers
+447. Vortimer Crane: 363 buses, 1981 passengers
+448. Lysa Meadows: 362 buses, 2810 passengers
+449. Lyra Mormont: 362 buses, 927 passengers
+450. Emberlei Frey: 362 buses, 769 passengers
+451. Cotter Pyke: 361 buses, 1684 passengers
+452. Harlen Tyrell: 361 buses, 1345 passengers
+453. Jon Snow: 361 buses, 1041 passengers
+454. Ragnor Pyke: 360 buses, 2734 passengers
+455. Robert Arryn: 360 buses, 1457 passengers
+456. C: 360 buses, 1272 passengers
+457. Greenbeard: 359 buses, 2961 passengers
+458. Uthor Tollett: 359 buses, 2021 passengers
+459. Borcas: 359 buses, 1529 passengers
+460. Luthor Tyrell: 359 buses, 1299 passengers
+461. Gregor Clegane: 358 buses, 2164 passengers
+462. Shadrich: 358 buses, 1814 passengers
+463. Theon Greyjoy: 358 buses, 1420 passengers
+464. Petyr Baelish: 358 buses, 542 passengers
+465. Lucantine Woodwright: 357 buses, 2895 passengers
+466. Sarra Frey: 357 buses, 2501 passengers
+467. Harrold Osgrey: 357 buses, 1487 passengers
+468. Meralyn: 357 buses, 1452 passengers
+469. Caleotte: 356 buses, 2041 passengers
+470. Shadd: 356 buses, 1521 passengers
+471. Osric Stark: 356 buses, 553 passengers
+472. Hugh: 356 buses, 422 passengers
+473. Shierle Swyft: 355 buses, 2852 passengers
+474. Torrhen Stark: 355 buses, 1942 passengers
+475. Vylarr: 355 buses, 1890 passengers
+476. Toefinger: 354 buses, 1631 passengers
+477. Nymella Toland: 354 buses, 1331 passengers
+478. Ossifer Plumm: 354 buses, 357 passengers
+479. Portifer: 353 buses, 1558 passengers
+480. Talbert Serry: 353 buses, 840 passengers
+481. Jhogo: 353 buses, 222 passengers
+482. Lenyl: 352 buses, 2704 passengers
+483. Triston Sunderland: 352 buses, 1240 passengers
+484. Jonos Bracken: 352 buses, 649 passengers
+485. Runcel Hightower: 351 buses, 1999 passengers
+486. Clement Crabb: 351 buses, 1998 passengers
+487. Bandy: 351 buses, 1326 passengers
+488. Melwys Rivers: 351 buses, 246 passengers
+489. Nymeria: 350 buses, 2910 passengers
+490. Benfred Tallhart: 350 buses, 1588 passengers
+491. Kedry: 350 buses, 208 passengers
+492. Harmund Sharp: 349 buses, 1465 passengers
+493. Frenken: 349 buses, 1220 passengers
+494. Jeren: 349 buses, 995 passengers
+495. Portifer Woodwright: 348 buses, 2504 passengers
+496. Sylas: 348 buses, 2387 passengers
+497. Salladhor Saan: 348 buses, 1410 passengers
+498. Tanselle: 347 buses, 2652 passengers
+499. Elbert Arryn: 347 buses, 1557 passengers
+500. Alysane Mormont: 347 buses, 183 passengers
+501. Aenys Frey: 346 buses, 686 passengers
+502. Alvyn Sharp: 346 buses, 269 passengers
+503. Brella: 346 buses, 161 passengers
+504. Tion Frey: 345 buses, 2306 passengers
+505. Malwyn Frey: 345 buses, 809 passengers
+506. Sigrin: 345 buses, 432 passengers
+507. Daeron II Targaryen: 344 buses, 2769 passengers
+508. Ardrian Celtigar: 344 buses, 1533 passengers
+509. Wex Pyke: 344 buses, 824 passengers
+510. Enger: 344 buses, 596 passengers
+511. Jammos Frey: 343 buses, 2533 passengers
+512. Uller: 343 buses, 384 passengers
+513. Reysen: 343 buses, 119 passengers
+514. Merrit: 342 buses, 2223 passengers
+515. Daario Naharis: 342 buses, 1162 passengers
+516. Edwyle Stark: 342 buses, 56 passengers
+517. Eustace Osgrey: 341 buses, 1683 passengers
+518. Moreo Tumitis: 341 buses, 1439 passengers
+519. Walda Frey: 341 buses, 786 passengers
+520. Eddara Tallhart: 340 buses, 2310 passengers
+521. Mina Tyrell: 340 buses, 1678 passengers
+522. Aerys II Targaryen: 340 buses, 1401 passengers
+523. Jon Bettley: 339 buses, 2912 passengers
+524. Mago: 339 buses, 2332 passengers
+525. Stonehand: 339 buses, 1866 passengers
+526. Medger Cerwyn: 338 buses, 2995 passengers
+527. Harwood Stout: 338 buses, 2787 passengers
+528. Moryn Tyrell: 338 buses, 1495 passengers
+529. Janyce Hunter: 337 buses, 2418 passengers
+530. Norne Goodbrother: 337 buses, 2253 passengers
+531. Cedric Payne: 337 buses, 1091 passengers
+532. Gerion Lannister: 336 buses, 2592 passengers
+533. Willifer: 336 buses, 2166 passengers
+534. Patrek Mallister: 336 buses, 1469 passengers
+535. Wyl Waynwood: 335 buses, 1350 passengers
+536. Mellario Of Norvos: 335 buses, 656 passengers
+537. Urras Ironfoot: 335 buses, 225 passengers
+538. Kyra: 334 buses, 2102 passengers
+539. Stannis Baratheon: 334 buses, 1500 passengers
+540. Hallis Mollen: 334 buses, 826 passengers
+541. Margaery Tyrell: 333 buses, 1883 passengers
+542. Royce Coldwater: 333 buses, 1243 passengers
+543. Lazy Leo: 333 buses, 1182 passengers
+544. Mellara Rivers: 332 buses, 2585 passengers
+545. Richard Farrow: 332 buses, 2287 passengers
+546. Steffon Varner: 332 buses, 1442 passengers
+547. Bethany Fair Fingers: 331 buses, 2805 passengers
+548. Gulian Qorgyle: 331 buses, 1731 passengers
+549. Lambert Turnberry: 331 buses, 960 passengers
+550. Medgar Tully: 330 buses, 2565 passengers
+551. Quellon Humble: 330 buses, 1775 passengers
+552. Grazdan mo Ullhor: 330 buses, 241 passengers
+553. Syrio Forel: 329 buses, 1215 passengers
+554. Rickon Stark: 329 buses, 490 passengers
+555. Jonos Stark: 329 buses, 410 passengers
+556. Godwyn: 329 buses, 320 passengers
+557. Tansy: 328 buses, 2879 passengers
+558. Mathis Frey: 328 buses, 2752 passengers
+559. Osha: 328 buses, 1655 passengers
+560. Lia Serry: 327 buses, 2137 passengers
+561. Baelor I Targaryen: 327 buses, 1458 passengers
+562. Barbrey Ryswell: 327 buses, 969 passengers
+563. Gorghan Of Old Ghis: 327 buses, 429 passengers
+564. Ellaria Sand: 326 buses, 1537 passengers
+565. Horas Redwyne: 326 buses, 1348 passengers
+566. Jyana: 326 buses, 1260 passengers
+567. Terrance Lynderly: 325 buses, 2186 passengers
+568. Alysanne Osgrey: 325 buses, 1170 passengers
+569. Cuger: 325 buses, 178 passengers
+570. Zachery Frey: 324 buses, 1499 passengers
+571. Aerys I Targaryen: 324 buses, 1337 passengers
+572. Mors Manwoody: 324 buses, 789 passengers
+573. Ysilla Royce: 323 buses, 1397 passengers
+574. Emrick: 323 buses, 705 passengers
+575. Jyzene: 323 buses, 619 passengers
+576. Peter Plumm: 322 buses, 2634 passengers
+577. Bertram Beesbury: 322 buses, 1264 passengers
+578. Mad Huntsman: 322 buses, 633 passengers
+579. Theo Wull: 321 buses, 802 passengers
+580. Brusco: 321 buses, 295 passengers
+581. Stafford Lannister: 321 buses, 10 passengers
+582. Bryen: 320 buses, 2835 passengers
+583. Jeyne Farman: 320 buses, 2167 passengers
+584. Hugo Wull: 320 buses, 1702 passengers
+585. Leyla Hightower: 320 buses, 1033 passengers
+586. Quentyn Martell: 319 buses, 1666 passengers
+587. Helicent Uffering: 319 buses, 1092 passengers
+588. Dale Drumm: 319 buses, 1028 passengers
+589. Yormwell: 318 buses, 2354 passengers
+590. Jeyne Goodbrook: 318 buses, 1664 passengers
+591. Addison Hill: 318 buses, 1257 passengers
+592. Raynard: 318 buses, 741 passengers
+593. Alester Florent: 317 buses, 1742 passengers
+594. Nestor Royce: 317 buses, 1217 passengers
+595. Tywin Lannister: 317 buses, 459 passengers
+596. Torwynd: 316 buses, 2359 passengers
+597. Torrhen Karstark: 316 buses, 1387 passengers
+598. Balman Byrch: 316 buses, 1097 passengers
+599. Merrett Frey: 315 buses, 1955 passengers
+600. Dorren Stark: 315 buses, 1851 passengers
+601. Mudge: 315 buses, 1523 passengers
+602. Alliser Thorne: 315 buses, 487 passengers
+603. Dunsen: 314 buses, 2862 passengers
+604. Wyman Manderly: 314 buses, 642 passengers
+605. Balon Botley: 314 buses, 371 passengers
+606. Norjen: 313 buses, 1697 passengers
+607. Temmo: 313 buses, 1284 passengers
+608. Smiling Knight: 313 buses, 1110 passengers
+609. Sky Blue Su: 312 buses, 2517 passengers
+610. Arwood Frey: 312 buses, 2286 passengers
+611. Maron Greyjoy: 312 buses, 2024 passengers
+612. Qyburn: 312 buses, 709 passengers
+613. Bran Stark: 311 buses, 2629 passengers
+614. Marsella Waynwood: 311 buses, 781 passengers
+615. Ben Bushy: 311 buses, 421 passengers
+616. Ryger Rivers: 310 buses, 2532 passengers
+617. Kevan Lannister: 310 buses, 118 passengers
+618. Mariya Darry: 310 buses, 35 passengers
+619. Jhiqui: 309 buses, 2065 passengers
+620. Serala: 309 buses, 1385 passengers
+621. Aladale Wynch: 309 buses, 88 passengers
+622. Alekyne Florent: 308 buses, 1875 passengers
+623. Tommen Costayne: 308 buses, 1446 passengers
+624. Jasper Waynwood: 308 buses, 115 passengers
+625. Gylbert Farwynd: 307 buses, 2446 passengers
+626. Marillion: 307 buses, 2157 passengers
+627. Alyn Frey: 307 buses, 916 passengers
+628. Liane Vance: 306 buses, 2642 passengers
+629. Gorne: 306 buses, 2409 passengers
+630. Damon Lannister: 306 buses, 2278 passengers
+631. Chett: 305 buses, 2579 passengers
+632. Kennos Of Kayce: 305 buses, 1668 passengers
+633. Lester: 305 buses, 1444 passengers
+634. Del: 304 buses, 2403 passengers
+635. Denys Darklyn: 304 buses, 2260 passengers
+636. Gareth Clifton: 304 buses, 1944 passengers
+637. Sylva Santagar: 303 buses, 2572 passengers
+638. Ormond Osgrey: 303 buses, 2372 passengers
+639. Ricasso: 303 buses, 1990 passengers
+640. Beck: 302 buses, 1339 passengers
+641. Dick Crabb: 302 buses, 1133 passengers
+642. Maron Martell: 302 buses, 288 passengers
+643. Gawen Glover: 301 buses, 2955 passengers
+644. Gerald Gower: 301 buses, 2380 passengers
+645. Ellyn Tarbeck: 301 buses, 1844 passengers
+646. Byron: 301 buses, 870 passengers
+647. Nightingale: 300 buses, 2580 passengers
+648. Lester Morrigen: 300 buses, 2503 passengers
+649. Zei: 300 buses, 2154 passengers
+650. Malleon: 299 buses, 2590 passengers
+651. Meizo Mahr: 299 buses, 2588 passengers
+652. Darlessa Marbrand: 299 buses, 1512 passengers
+653. Arryk: 298 buses, 1563 passengers
+654. Arya Stark: 298 buses, 783 passengers
+655. Garlan Tyrell: 298 buses, 719 passengers
+656. Michael Mertyns: 297 buses, 2997 passengers
+657. Tristifer Botley: 297 buses, 2803 passengers
+658. Toregg: 297 buses, 2802 passengers
+659. Gariss: 297 buses, 2568 passengers
+660. Brynden Tully: 296 buses, 1640 passengers
+661. Shagwell: 296 buses, 1482 passengers
+662. Robyn Rhysling: 296 buses, 644 passengers
+663. Gelmarr: 295 buses, 1647 passengers
+664. Softfoot: 295 buses, 1380 passengers
+665. Gyles III Gardener: 295 buses, 805 passengers
+666. Mord: 294 buses, 2989 passengers
+667. Boros Blount: 294 buses, 2356 passengers
+668. Willis Wode: 294 buses, 1821 passengers
+669. Martyn Cassel: 293 buses, 2639 passengers
+670. Robert Flowers: 293 buses, 1010 passengers
+671. Aegon Blackfyre: 293 buses, 589 passengers
+672. Maelys Blackfyre: 292 buses, 2019 passengers
+673. Jaime Frey: 292 buses, 1642 passengers
+674. Ternesio Terys: 292 buses, 1485 passengers
+675. Assadora Of Ibben: 291 buses, 2015 passengers
+676. Joramun: 291 buses, 1255 passengers
+677. Jeyne Darry: 291 buses, 233 passengers
+678. Maegor I Targaryen: 290 buses, 2061 passengers
+679. Eldiss: 290 buses, 1429 passengers
+680. Quentyn Blackwood: 290 buses, 1328 passengers
+681. Elwood Meadows: 289 buses, 2837 passengers
+682. Dunaver: 289 buses, 1720 passengers
+683. Carellen Smallwood: 289 buses, 138 passengers
+684. Richard Lonmouth: 288 buses, 543 passengers
+685. Harbert: 288 buses, 355 passengers
+686. Rob: 288 buses, 353 passengers
+687. Jurne: 287 buses, 2358 passengers
+688. Theodore Tyrell: 287 buses, 1245 passengers
+689. Barth Stark: 287 buses, 867 passengers
+690. Ermesande Hayford: 286 buses, 2613 passengers
+691. Wayn: 286 buses, 626 passengers
+692. Fern: 286 buses, 153 passengers
+693. Melesa Crakehall: 285 buses, 962 passengers
+694. Andrew Estermont: 285 buses, 687 passengers
+695. Val: 285 buses, 443 passengers
+696. Artos Stark: 284 buses, 2149 passengers
+697. Nymos: 284 buses, 2097 passengers
+698. Daeron Vaith: 284 buses, 1335 passengers
+699. Alerie Hightower: 283 buses, 2872 passengers
+700. Lormelle Long Lance: 283 buses, 1471 passengers
+701. Walder Frey: 283 buses, 326 passengers
+702. Missandei: 283 buses, 34 passengers
+703. Romny Weaver: 282 buses, 1967 passengers
+704. Jorah Mormont: 282 buses, 1896 passengers
+705. Beardless Dick: 282 buses, 188 passengers
+706. Garrett Flowers: 281 buses, 2899 passengers
+707. Perestan: 281 buses, 2283 passengers
+708. Allard Seaworth: 281 buses, 977 passengers
+709. Ambrode: 280 buses, 2811 passengers
+710. Meera Reed: 280 buses, 2414 passengers
+711. Areo Hotah: 280 buses, 1751 passengers
+712. Artys Arryn: 280 buses, 381 passengers
+713. Arnell: 279 buses, 2689 passengers
+714. Wulfe: 279 buses, 2324 passengers
+715. Owen Merryweather: 279 buses, 939 passengers
+716. Ballabar: 278 buses, 2820 passengers
+717. Jonnel Stark: 278 buses, 742 passengers
+718. Alyssa Blackwood: 278 buses, 372 passengers
+719. Alester Oakheart: 277 buses, 2009 passengers
+720. Denys Mallister: 277 buses, 1065 passengers
+721. Old Grey Gull: 277 buses, 997 passengers
+722. Brandon Norrey: 276 buses, 2051 passengers
+723. Jason Mallister: 276 buses, 1448 passengers
+724. Lewys Piper: 276 buses, 773 passengers
+725. Eldon Estermont: 275 buses, 697 passengers
+726. Umma: 275 buses, 537 passengers
+727. Theomar Smallwood: 275 buses, 69 passengers
+728. Lyanna Stark: 274 buses, 2393 passengers
+729. Barristan Selmy: 274 buses, 2200 passengers
+730. Pypar: 274 buses, 2160 passengers
+731. Iggo: 273 buses, 2878 passengers
+732. Joyeuse Erenford: 273 buses, 1795 passengers
+733. Asha Greyjoy: 273 buses, 1294 passengers
+734. Selmond Stackspear: 272 buses, 1776 passengers
+735. Lucas Inchfield: 272 buses, 586 passengers
+736. Albar Royce: 272 buses, 70 passengers
+737. Orton Merryweather: 271 buses, 2472 passengers
+738. Beren Tallhart: 271 buses, 518 passengers
+739. Bellena Hawick: 271 buses, 130 passengers
+740. Walton Frey: 270 buses, 1570 passengers
+741. Donnel Hill: 270 buses, 1491 passengers
+742. Ryam: 270 buses, 1153 passengers
+743. Sylwa Paege: 269 buses, 1917 passengers
+744. Hobb: 269 buses, 1855 passengers
+745. Rafe: 269 buses, 636 passengers
+746. Raymun: 268 buses, 2847 passengers
+747. Steffon Seaworth: 268 buses, 2754 passengers
+748. Kraznys mo Nakloz: 268 buses, 668 passengers
+749. Jaqen Hghar: 268 buses, 377 passengers
+750. Lucos Chyttering: 267 buses, 1782 passengers
+751. Gilwood Hunter: 267 buses, 1460 passengers
+752. Mark Mullendore: 267 buses, 754 passengers
+753. Sigfryd Harlaw: 267 buses, 375 passengers
+754. Tregar Ormollen: 266 buses, 968 passengers
+755. Cletus Yronwood: 266 buses, 835 passengers
+756. Fralegg: 266 buses, 720 passengers
+757. Byam Flint: 266 buses, 621 passengers
+758. Samwell Stone: 265 buses, 2833 passengers
+759. Beron Stark: 265 buses, 1905 passengers
+760. Violet: 265 buses, 1263 passengers
+761. Humfrey Wagstaff: 264 buses, 2313 passengers
+762. Rollam Westerling: 264 buses, 2079 passengers
+763. Jeyne Waters: 264 buses, 345 passengers
+764. Osmund Kettleblack: 263 buses, 1344 passengers
+765. Dennett: 263 buses, 601 passengers
+766. Jon Wylde: 263 buses, 511 passengers
+767. Elmar Frey: 262 buses, 1616 passengers
+768. Harsley: 262 buses, 1236 passengers
+769. Tyene Sand: 262 buses, 676 passengers
+770. Marwyn: 261 buses, 854 passengers
+771. Jocelyn Swyft: 261 buses, 555 passengers
+772. Jeyne Heddle: 261 buses, 461 passengers
+773. Denys Drumm: 260 buses, 2489 passengers
+774. Colloquo Votar: 260 buses, 857 passengers
+775. Morgarth: 260 buses, 411 passengers
+776. Arianne Martell: 259 buses, 1830 passengers
+777. Larence Snow: 259 buses, 434 passengers
+778. Tristifer IV Mudd: 259 buses, 397 passengers
+779. Jafer Flowers: 259 buses, 128 passengers
+780. Perros Blackmont: 258 buses, 2544 passengers
+781. Osbert Serry: 258 buses, 2098 passengers
+782. Lucas Nayland: 258 buses, 1786 passengers
+783. Joss Stilwood: 258 buses, 712 passengers
+784. Benedict Broom: 257 buses, 1908 passengers
+785. White Walda Frey: 257 buses, 1630 passengers
+786. Karl: 257 buses, 813 passengers
+787. Red Walder Frey: 257 buses, 121 passengers
+788. Chiswyck: 256 buses, 2437 passengers
+789. Griffin King: 256 buses, 1412 passengers
+790. Grisel: 256 buses, 258 passengers
+791. Agrivane: 255 buses, 2792 passengers
+792. Jon Connington: 255 buses, 2600 passengers
+793. Norbert Vance: 255 buses, 922 passengers
+794. Margot Lannister: 254 buses, 2369 passengers
+795. Donnel Haigh: 254 buses, 807 passengers
+796. Tristan Mudd: 254 buses, 548 passengers
+797. Mychel Redfort: 253 buses, 2201 passengers
+798. Joy Hill: 253 buses, 1826 passengers
+799. Dagon Greyjoy: 253 buses, 1069 passengers
+800. Myriah Martell: 252 buses, 2662 passengers
+801. Bors: 252 buses, 1639 passengers
+802. Quentyn Ball: 252 buses, 1171 passengers
+803. Dan: 251 buses, 2539 passengers
+804. Donnor Stark: 251 buses, 329 passengers
+805. Stygg: 251 buses, 286 passengers
+806. Jon Fossoway: 250 buses, 2596 passengers
+807. Jenny: 250 buses, 1296 passengers
+808. Lyonel Selmy: 250 buses, 468 passengers
+809. Quentin Tyrell: 249 buses, 2993 passengers
+810. Preston Greenfield: 249 buses, 1392 passengers
+811. Tormund: 249 buses, 567 passengers
+812. Gwynesse Harlaw: 249 buses, 15 passengers
+813. Rhonda Rowan: 248 buses, 2460 passengers
+814. Ronald Vance: 248 buses, 1581 passengers
+815. Belandra: 248 buses, 1132 passengers
+816. Rodrik Ryswell: 247 buses, 1860 passengers
+817. Meg: 247 buses, 1249 passengers
+818. Melara Hetherspoon: 247 buses, 266 passengers
+819. Armond Caswell: 246 buses, 2529 passengers
+820. Humfrey Swyft: 246 buses, 1725 passengers
+821. Tymor: 246 buses, 608 passengers
+822. Joanna Lannister: 246 buses, 424 passengers
+823. Hullen: 245 buses, 2729 passengers
+824. Maegelle Frey: 245 buses, 2239 passengers
+825. Kym: 245 buses, 1810 passengers
+826. Viserys II Targaryen: 245 buses, 631 passengers
+827. Jeyne Beesbury: 244 buses, 2520 passengers
+828. Otto Hightower: 244 buses, 1953 passengers
+829. Galladon Of Tarth: 244 buses, 1605 passengers
+830. Rickard Stark: 243 buses, 2618 passengers
+831. Hyle Hunt: 243 buses, 1219 passengers
+832. Amarei Crakehall: 243 buses, 399 passengers
+833. Harmen Uller: 242 buses, 2429 passengers
+834. Qarro Volentin: 242 buses, 1669 passengers
+835. Harys Haigh: 242 buses, 342 passengers
+836. Symond Templeton: 242 buses, 43 passengers
+837. Lomys: 241 buses, 2666 passengers
+838. Lucion Lannister: 241 buses, 2646 passengers
+839. Regenard Estren: 241 buses, 1607 passengers
+840. Desmond Redwyne: 241 buses, 1179 passengers
+841. Ossy: 240 buses, 2726 passengers
+842. Theomore: 240 buses, 2323 passengers
+843. Theon Stark: 240 buses, 557 passengers
+844. Sigfry Stonetree: 239 buses, 1822 passengers
+845. Alysanne Hightower: 239 buses, 1019 passengers
+846. Erreg: 239 buses, 145 passengers
+847. Wallen: 238 buses, 1590 passengers
+848. Edwyn Osgrey: 238 buses, 1451 passengers
+849. Catelyn Tully: 238 buses, 801 passengers
+850. Roone: 237 buses, 2602 passengers
+851. Josua Willum: 237 buses, 2070 passengers
+852. Jonothor Darry: 237 buses, 1077 passengers
+853. Roose Bolton: 236 buses, 1160 passengers
+854. Andar Royce: 236 buses, 851 passengers
+855. Rupert Brax: 236 buses, 788 passengers
+856. Paxter Redwyne: 235 buses, 2357 passengers
+857. Creighton Redfort: 235 buses, 1223 passengers
+858. Qos: 235 buses, 378 passengers
+859. Pudding: 234 buses, 2849 passengers
+860. Senelle: 234 buses, 2511 passengers
+861. Manfred Swann: 234 buses, 2124 passengers
+862. Ryella Frey: 234 buses, 808 passengers
+863. Harma: 233 buses, 2240 passengers
+864. Euron Greyjoy: 233 buses, 1340 passengers
+865. Sawane Botley: 233 buses, 506 passengers
+866. Ryman Frey: 233 buses, 213 passengers
+867. Gallard: 232 buses, 2943 passengers
+868. Wendel Manderly: 232 buses, 2561 passengers
+869. Walder Goodbrook: 232 buses, 967 passengers
+870. Rickard Ryswell: 232 buses, 477 passengers
+871. Jeyne Swann: 231 buses, 665 passengers
+872. Dacks: 231 buses, 405 passengers
+873. Grenn: 231 buses, 11 passengers
+874. Harmond Umber: 230 buses, 2978 passengers
+875. Lucas Blackwood: 230 buses, 2631 passengers
+876. Thoren Smallwood: 230 buses, 1651 passengers
+877. Dake: 230 buses, 721 passengers
+878. Stone Thumbs: 229 buses, 1508 passengers
+879. Bryen Farring: 229 buses, 1161 passengers
+880. Jeyne Lothston: 229 buses, 310 passengers
+881. Karyl Vance: 228 buses, 2322 passengers
+882. Lucas Lothston: 228 buses, 1194 passengers
+883. Othor: 228 buses, 752 passengers
+884. Todric: 227 buses, 2947 passengers
+885. Eddard Stark: 227 buses, 2650 passengers
+886. Dickon Frey: 227 buses, 2365 passengers
+887. Rhogoro: 227 buses, 1628 passengers
+888. Tom Of Sevenstreams: 226 buses, 664 passengers
+889. Edmyn Tully: 226 buses, 627 passengers
+890. Symond Botley: 226 buses, 541 passengers
+891. Oberyn Martell: 225 buses, 2379 passengers
+892. Elenei: 225 buses, 2080 passengers
+893. Gevin Harlaw: 225 buses, 1594 passengers
+894. Vyman: 224 buses, 2252 passengers
+895. Ben Blackthumb: 224 buses, 2181 passengers
+896. Torren Liddle: 224 buses, 1717 passengers
+897. Edric Storm: 224 buses, 919 passengers
+898. Perra Royce: 223 buses, 2738 passengers
+899. Conn: 223 buses, 2545 passengers
+900. Alfyn Crowkiller: 223 buses, 40 passengers
+901. Rorge: 222 buses, 2548 passengers
+902. Rickard Wylde: 222 buses, 2475 passengers
+903. Merlon Crakehall: 222 buses, 1862 passengers
+904. Patrek Vance: 222 buses, 83 passengers
+905. Erena Glover: 221 buses, 2330 passengers
+906. Shagga: 221 buses, 588 passengers
+907. Danelle Lothston: 221 buses, 474 passengers
+908. Janos Slynt: 220 buses, 2425 passengers
+909. Mors Martell: 220 buses, 2148 passengers
+910. Willas Tyrell: 220 buses, 1878 passengers
+911. Walgrave: 219 buses, 2679 passengers
+912. Shella Whent: 219 buses, 2298 passengers
+913. Conwy: 219 buses, 1015 passengers
+914. Farlen: 218 buses, 2172 passengers
+915. Horton Redfort: 218 buses, 1832 passengers
+916. Raymun Fossoway: 218 buses, 582 passengers
+917. Mela: 217 buses, 2671 passengers
+918. Maekar I Targaryen: 217 buses, 1124 passengers
+919. Tya Lannister: 217 buses, 1058 passengers
+920. Alyce Graceford: 216 buses, 2573 passengers
+921. Roland Crakehall: 216 buses, 1750 passengers
+922. Sargon Botley: 216 buses, 1310 passengers
+923. Baelor Hightower: 215 buses, 2939 passengers
+924. Alys Arryn: 215 buses, 2794 passengers
+925. Fat Walda Frey: 215 buses, 220 passengers
+926. Clayton Suggs: 214 buses, 2373 passengers
+927. Lyonel Frey: 214 buses, 1333 passengers
+928. Roose Ryswell: 214 buses, 348 passengers
+929. Leslyn Haigh: 213 buses, 2366 passengers
+930. Alannys Harlaw: 213 buses, 2225 passengers
+931. Pate Of the Blue Fork: 213 buses, 1733 passengers
+932. Mullin: 213 buses, 257 passengers
+933. Serra Frey: 212 buses, 2506 passengers
+934. Arys Oakheart: 212 buses, 1956 passengers
+935. Jaggot: 212 buses, 1402 passengers
+936. William Mooton: 212 buses, 944 passengers
+937. Hal: 211 buses, 1147 passengers
+938. Donnel Swann: 211 buses, 866 passengers
+939. Elys Waynwood: 211 buses, 281 passengers
+940. Addam: 210 buses, 2445 passengers
+941. Morya Frey: 210 buses, 637 passengers
+942. Buford Bulwer: 210 buses, 376 passengers
+943. Lothar Frey: 209 buses, 2582 passengers
+944. Mhaegan: 209 buses, 793 passengers
+945. Tickler: 209 buses, 703 passengers
+946. Timett: 208 buses, 2115 passengers
+947. Eustace Hunter: 208 buses, 2023 passengers
+948. Shae: 208 buses, 827 passengers
+949. Normund Tyrell: 207 buses, 2821 passengers
+950. Othell Yarwyck: 207 buses, 1918 passengers
+951. Ralf Kenning: 207 buses, 1134 passengers
+952. Alyn Hunt: 206 buses, 2736 passengers
+953. Cersei Frey: 206 buses, 559 passengers
+954. Stevron Frey: 206 buses, 514 passengers
+955. Mance Rayder: 205 buses, 2527 passengers
+956. Triston: 205 buses, 1989 passengers
+957. Denys Arryn: 205 buses, 983 passengers
+958. Puddingfoot: 204 buses, 2338 passengers
+959. Garizon: 204 buses, 1436 passengers
+960. Tristimun: 204 buses, 534 passengers
+961. Spotted Pate the Pig Boy: 203 buses, 2720 passengers
+962. Emmond: 203 buses, 2395 passengers
+963. Hoster Frey: 203 buses, 2067 passengers
+964. Obara Sand: 202 buses, 2958 passengers
+965. Randa: 202 buses, 2543 passengers
+966. Kurleket: 202 buses, 895 passengers
+967. Brandon Stark: 202 buses, 426 passengers
+968. Maerie: 201 buses, 2508 passengers
+969. Emphyria Vance: 201 buses, 2018 passengers
+970. Dafyn Vance: 201 buses, 1100 passengers
+971. Turquin: 200 buses, 1965 passengers
+972. Bethany Redwyne: 200 buses, 1180 passengers
+973. Jon Myre: 200 buses, 135 passengers
+974. Elia Martell: 199 buses, 1578 passengers
+975. Kemmett Pyke: 199 buses, 1466 passengers
+976. Edric Dayne: 199 buses, 891 passengers
+977. Byan Votyris: 198 buses, 2998 passengers
+978. Zarabelo: 198 buses, 2708 passengers
+979. Tybolt Crakehall: 198 buses, 1388 passengers
+980. Dacey Mormont: 197 buses, 2612 passengers
+981. Bass: 197 buses, 1761 passengers
+982. Qotho: 197 buses, 868 passengers
+983. Sedgekins: 196 buses, 2691 passengers
+984. Willem Darry: 196 buses, 2583 passengers
+985. Brenett: 196 buses, 1497 passengers
+986. Jhaqo: 195 buses, 2391 passengers
+987. Donnel Drumm: 195 buses, 2183 passengers
+988. Ryella Royce: 195 buses, 1367 passengers
+989. Colen Of Greenpools: 194 buses, 1250 passengers
+990. Walton: 194 buses, 1212 passengers
+991. Pono: 194 buses, 379 passengers
+992. Ragwyle: 193 buses, 2111 passengers
+993. Colmar Frey: 193 buses, 1899 passengers
+994. Ironbelly: 193 buses, 1346 passengers
+995. Olene Tyrell: 192 buses, 2825 passengers
+996. Meliana: 192 buses, 2271 passengers
+997. Humfrey Hardyng: 192 buses, 2039 passengers
+998. Harrold Hardyng: 192 buses, 1874 passengers
+999. Gawen Westerling: 191 buses, 1715 passengers
+1000. Lord Caswell: 191 buses, 60 passengers
+1001. Yorko Terys: 191 buses, 30 passengers
+1002. Hendry Bracken: 190 buses, 1954 passengers
+1003. Dunk: 190 buses, 1704 passengers
+1004. Steffon Fossoway: 190 buses, 1125 passengers
+1005. Jon Stark: 190 buses, 763 passengers
+1006. Gyles Grafton: 189 buses, 2587 passengers
+1007. Qarl: 189 buses, 2552 passengers
+1008. Arron: 189 buses, 2433 passengers
+1009. Donella Manderly: 189 buses, 2059 passengers
+1010. Theodan Wells: 188 buses, 1359 passengers
+1011. Walder Rivers: 188 buses, 1035 passengers
+1012. Kyle Royce: 188 buses, 150 passengers
+1013. Becca: 187 buses, 2628 passengers
+1014. Robin Ryger: 187 buses, 2133 passengers
+1015. Eleanor Mooton: 187 buses, 1247 passengers
+1016. Flement Brax: 187 buses, 231 passengers
+1017. Cleon: 186 buses, 2048 passengers
+1018. Jyanna Frey: 186 buses, 726 passengers
+1019. Matthar: 186 buses, 370 passengers
+1020. Chella: 185 buses, 1828 passengers
+1021. Matt: 185 buses, 1025 passengers
+1022. Martyn Mullendore: 185 buses, 455 passengers
+1023. Gran Goodbrother: 184 buses, 2617 passengers
+1024. Kenned: 184 buses, 2321 passengers
+1025. Jayde: 184 buses, 2184 passengers
+1026. Myrielle Lannister: 183 buses, 2241 passengers
+1027. Leona Tyrell: 183 buses, 2130 passengers
+1028. Axell Florent: 183 buses, 1670 passengers
+1029. Roelle: 182 buses, 2674 passengers
+1030. Hilmar Drumm: 182 buses, 1638 passengers
+1031. Merianne Frey: 182 buses, 620 passengers
+1032. Praed: 181 buses, 2463 passengers
+1033. Harmune: 181 buses, 2327 passengers
+1034. Bayard Norcross: 181 buses, 325 passengers
+1035. Jeyne Fossoway: 180 buses, 2440 passengers
+1036. Aggar: 180 buses, 2422 passengers
+1037. Helman Tallhart: 180 buses, 1202 passengers
+1038. Germund Botley: 180 buses, 501 passengers
+1039. Franklyn Frey: 179 buses, 2839 passengers
+1040. Kedge: 179 buses, 2309 passengers
+1041. Samwell Tarly: 179 buses, 1752 passengers
+1042. Loren Lannister: 179 buses, 108 passengers
+1043. Todder: 178 buses, 701 passengers
+1044. Arlan Of Pennytree: 178 buses, 205 passengers
+1045. Albett: 178 buses, 123 passengers
+1046. Hodor: 177 buses, 1352 passengers
+1047. Rolfe: 177 buses, 111 passengers
+1048. Delonne Allyrion: 177 buses, 28 passengers
+1049. Gerren: 176 buses, 2930 passengers
+1050. Balon Greyjoy: 176 buses, 2248 passengers
+1051. Naerys Targaryen: 176 buses, 952 passengers
+1052. Cyrenna Swann: 175 buses, 2815 passengers
+1053. Henly: 175 buses, 1621 passengers
+1054. Loreza Sand: 175 buses, 1166 passengers
+1055. Edgerran Oakheart: 174 buses, 2560 passengers
+1056. Cersei Lannister: 174 buses, 2407 passengers
+1057. Argrave the Defiant: 174 buses, 318 passengers
+1058. Hod: 173 buses, 2047 passengers
+1059. Herbert Bolling: 173 buses, 1745 passengers
+1060. Ronnel Arryn: 173 buses, 1657 passengers
+1061. Danny Flint: 173 buses, 1046 passengers
+1062. Aenys I Targaryen: 172 buses, 2728 passengers
+1063. Goodwin: 172 buses, 1254 passengers
+1064. Roro Uhoris: 172 buses, 986 passengers
+1065. Sleepy Jack: 171 buses, 2246 passengers
+1066. Halys Hornwood: 171 buses, 1706 passengers
+1067. Skyte: 171 buses, 1207 passengers
+1068. Aemon Rivers: 171 buses, 430 passengers
+1069. Vickon Botley: 170 buses, 2800 passengers
+1070. Tybolt Hetherspoon: 170 buses, 2144 passengers
+1071. Aegon III Targaryen: 170 buses, 1785 passengers
+1072. Steffon Baratheon: 170 buses, 440 passengers
+1073. Rolland Longthorpe: 169 buses, 2855 passengers
+1074. Urzen: 169 buses, 392 passengers
+1075. Criston Cole: 169 buses, 186 passengers
+1076. Dolf: 168 buses, 2758 passengers
+1077. Edmund Waxley: 168 buses, 2563 passengers
+1078. Nan: 168 buses, 1766 passengers
+1079. Ben Beesbury: 167 buses, 2611 passengers
+1080. Barth: 167 buses, 2273 passengers
+1081. Wallace Waynwood: 167 buses, 2196 passengers
+1082. Mad Axe: 166 buses, 1663 passengers
+1083. Jorah Stark: 166 buses, 603 passengers
+1084. Galbart Glover: 166 buses, 38 passengers
+1085. Bryen Caron: 165 buses, 1820 passengers
+1086. Donnel Waynwood: 165 buses, 1700 passengers
+1087. Alyssa Arryn: 165 buses, 93 passengers
+1088. Bradamar Frey: 164 buses, 2500 passengers
+1089. Rodwell Stark: 164 buses, 1187 passengers
+1090. Mandon Moore: 164 buses, 680 passengers
+1091. Ulf: 164 buses, 133 passengers
+1092. Greatheart: 163 buses, 2751 passengers
+1093. Walder Haigh: 163 buses, 2721 passengers
+1094. Trystane Martell: 163 buses, 2250 passengers
+1095. Ketter: 163 buses, 1204 passengers
+1096. Belgrave: 162 buses, 2259 passengers
+1097. Gormon: 162 buses, 1574 passengers
+1098. Wylla Manderly: 162 buses, 728 passengers
+1099. Sharna: 161 buses, 1319 passengers
+1100. Rigney: 161 buses, 675 passengers
+1101. Raymond Nayland: 161 buses, 247 passengers
+1102. Addam Marbrand: 160 buses, 2962 passengers
+1103. Willem Wylde: 160 buses, 1406 passengers
+1104. Garth Greenfield: 160 buses, 1138 passengers
+1105. Gerold Dayne: 159 buses, 2952 passengers
+1106. Jynessa Blackmont: 159 buses, 1509 passengers
+1107. Osmynd: 159 buses, 888 passengers
+1108. Leona Woolfield: 158 buses, 2705 passengers
+1109. Jaehaerys I Targaryen: 158 buses, 2284 passengers
+1110. Rodrik Harlaw: 158 buses, 1225 passengers
+1111. Ryam Florent: 157 buses, 3000 passengers
+1112. Lewys Lydden: 157 buses, 2934 passengers
+1113. Dorea Sand: 157 buses, 2238 passengers
+1114. Kurz: 156 buses, 2431 passengers
+1115. Jommo: 156 buses, 2346 passengers
+1116. Aenar Targaryen: 156 buses, 2315 passengers
+1117. Eon Hunter: 156 buses, 1251 passengers
+1118. Rolland Uffering: 155 buses, 817 passengers
+1119. Yohn Royce: 155 buses, 516 passengers
+1120. Ollidor: 155 buses, 234 passengers
+1121. Arrec: 154 buses, 1567 passengers
+1122. Alyn Stackspear: 154 buses, 533 passengers
+1123. Ryon Allyrion: 154 buses, 414 passengers
+1124. Arwyn Frey: 153 buses, 2555 passengers
+1125. Jon Umber: 153 buses, 2396 passengers
+1126. Garse Flowers: 153 buses, 1540 passengers
+1127. Anguy: 153 buses, 905 passengers
+1128. Cadwyn: 152 buses, 1891 passengers
+1129. Dancy: 152 buses, 1039 passengers
+1130. Hake: 152 buses, 492 passengers
+1131. Rowena Arryn: 151 buses, 2078 passengers
+1132. Clifford Conklyn: 151 buses, 1801 passengers
+1133. Bennis: 151 buses, 1262 passengers
+1134. Alyce Dunn: 151 buses, 504 passengers
+1135. Gerardys: 150 buses, 2765 passengers
+1136. Yna: 150 buses, 1847 passengers
+1137. Dareon: 150 buses, 659 passengers
+1138. Hot Pie: 150 buses, 343 passengers
+1139. Mylenda Caron: 149 buses, 1364 passengers
+1140. Jeor Mormont: 149 buses, 966 passengers
+1141. Gerold Grafton: 149 buses, 226 passengers
+1142. Renly Baratheon: 148 buses, 2727 passengers
+1143. Rhialta Vance: 148 buses, 2673 passengers
+1144. Elyn Norridge: 148 buses, 1267 passengers
+1145. Harra: 147 buses, 723 passengers
+1146. Josmyn Peckledon: 147 buses, 655 passengers
+1147. Lythene Frey: 147 buses, 592 passengers
+1148. Godric Borrell: 146 buses, 2011 passengers
+1149. Quent: 146 buses, 1244 passengers
+1150. Lucamore Strong: 146 buses, 581 passengers
+1151. Hop Robin: 145 buses, 1773 passengers
+1152. Bronn: 145 buses, 737 passengers
+1153. Bennard Brune: 145 buses, 89 passengers
+1154. Aegon Frey: 144 buses, 2743 passengers
+1155. Alyn Estermont: 144 buses, 1635 passengers
+1156. Rodrik Cassel: 144 buses, 1468 passengers
+1157. Denys Redwyne: 143 buses, 2616 passengers
+1158. Jon Waters: 143 buses, 2071 passengers
+1159. Sandor Frey: 143 buses, 2032 passengers
+1160. Hoster Tully: 142 buses, 1988 passengers
+1161. Lothor Brune: 142 buses, 1575 passengers
+1162. Skittrick: 142 buses, 632 passengers
+1163. Hosman Norcross: 142 buses, 550 passengers
+1164. Raynard Ruttiger: 141 buses, 2724 passengers
+1165. Harren Botley: 141 buses, 2016 passengers
+1166. Edwyd Fossoway: 141 buses, 1623 passengers
+1167. Ebrose: 140 buses, 2973 passengers
+1168. Richard Horpe: 140 buses, 2492 passengers
+1169. Jeyne Royce: 140 buses, 1673 passengers
+1170. Haggo: 140 buses, 198 passengers
+1171. Parmen Crane: 139 buses, 1879 passengers
+1172. Ottomore: 139 buses, 1524 passengers
+1173. Palla: 139 buses, 1082 passengers
+1174. Tarle: 138 buses, 1681 passengers
+1175. Beony Beesbury: 138 buses, 1617 passengers
+1176. Loras Tyrell: 138 buses, 985 passengers
+1177. Simon Toyne: 137 buses, 1242 passengers
+1178. Manfryd Lothston: 137 buses, 356 passengers
+1179. Triston Farwynd: 137 buses, 292 passengers
+1180. Pate: 136 buses, 2902 passengers
+1181. Morrec: 136 buses, 2512 passengers
+1182. Rupert Crabb: 136 buses, 212 passengers
+1183. Symond Frey: 135 buses, 2696 passengers
+1184. Jon Redfort: 135 buses, 2174 passengers
+1185. Theobald: 135 buses, 1819 passengers
+1186. Quenton Hightower: 135 buses, 215 passengers
+1187. Qalen: 134 buses, 1938 passengers
+1188. Lothar: 134 buses, 1723 passengers
+1189. Ravella Swann: 134 buses, 1606 passengers
+1190. Rhaegar Frey: 134 buses, 992 passengers
+1191. Emma: 133 buses, 1997 passengers
+1192. Guyard Morrigen: 133 buses, 1873 passengers
+1193. Godry Farring: 133 buses, 1246 passengers
+1194. Orivel: 132 buses, 2228 passengers
+1195. Vardis Egen: 132 buses, 1892 passengers
+1196. Leo Blackbar: 132 buses, 484 passengers
+1197. Rohanne Webber: 131 buses, 609 passengers
+1198. Pycelle: 131 buses, 209 passengers
+1199. Ronnel Stout: 131 buses, 101 passengers
+1200. Taena Of Myr: 130 buses, 2733 passengers
+1201. Dykk Harlaw: 130 buses, 1384 passengers
+1202. Gerold Lannister: 130 buses, 469 passengers
+1203. Osmund Frey: 129 buses, 2191 passengers
+1204. Lew: 129 buses, 1378 passengers
+1205. Gwayne Corbray: 129 buses, 1317 passengers
+1206. Tristan Ryger: 129 buses, 1208 passengers
+1207. Hareth: 128 buses, 2885 passengers
+1208. Aegon II Targaryen: 128 buses, 1107 passengers
+1209. Butterbumps: 128 buses, 897 passengers
+1210. Aemon Blackfyre: 127 buses, 2484 passengers
+1211. Lharys: 127 buses, 1659 passengers
+1212. Jorquen: 127 buses, 242 passengers
+1213. Victaria Tyrell: 126 buses, 1285 passengers
+1214. Vaellyn: 126 buses, 1277 passengers
+1215. Manfred Lothston: 126 buses, 648 passengers
+1216. Turnip: 125 buses, 2331 passengers
+1217. Harrag Sharp: 125 buses, 2114 passengers
+1218. Poxy Tym: 125 buses, 1276 passengers
+1219. Red Oarsman: 124 buses, 1739 passengers
+1220. Aegon IV Targaryen: 124 buses, 1714 passengers
+1221. Rymolf: 124 buses, 1589 passengers
+1222. Shiera Seastar: 124 buses, 1560 passengers
+1223. Alysanne Bulwer: 123 buses, 561 passengers
+1224. Dalla: 123 buses, 486 passengers
+1225. Robin Hill: 123 buses, 453 passengers
+1226. Dagmer: 122 buses, 2723 passengers
+1227. Daven Lannister: 122 buses, 1562 passengers
+1228. Ashara Dayne: 122 buses, 732 passengers
+1229. Vickon Greyjoy: 121 buses, 2901 passengers
+1230. Alyce: 121 buses, 1676 passengers
+1231. Gulian Swann: 121 buses, 1591 passengers
+1232. Bethany: 120 buses, 1193 passengers
+1233. Jonos Frey: 120 buses, 670 passengers
+1234. Eddison Tollett: 120 buses, 216 passengers
+1235. Willamen Frey: 119 buses, 2914 passengers
+1236. Joseth: 119 buses, 1748 passengers
+1237. Russell Merryweather: 119 buses, 1538 passengers
+1238. Andrik: 119 buses, 1281 passengers
+1239. Jorelle Mormont: 118 buses, 938 passengers
+1240. Alesander Torrent: 118 buses, 497 passengers
+1241. Qhored Hoare: 118 buses, 22 passengers
+1242. Mark Ryswell: 117 buses, 1771 passengers
+1243. Jarl: 117 buses, 1434 passengers
+1244. Alesander Frey: 117 buses, 386 passengers
+1245. Torwold Browntooth: 116 buses, 1201 passengers
+1246. Wyl: 116 buses, 925 passengers
+1247. Three Tooth: 116 buses, 764 passengers
+1248. Demon Of Darry: 115 buses, 1939 passengers
+1249. Canker Jeyne: 115 buses, 1211 passengers
+1250. Gueren: 115 buses, 495 passengers
+1251. Orbert Caswell: 114 buses, 2831 passengers
+1252. Watty: 114 buses, 2660 passengers
+1253. Mace Tyrell: 114 buses, 2521 passengers
+1254. Gawen Wylde: 114 buses, 871 passengers
+1255. Walda Rivers: 113 buses, 2999 passengers
+1256. Jasper Redfort: 113 buses, 2203 passengers
+1257. Endehar: 113 buses, 1483 passengers
+1258. Elys Westerling: 113 buses, 1205 passengers
+1259. Ondrew Locke: 112 buses, 2288 passengers
+1260. Emmon Frey: 112 buses, 605 passengers
+1261. Cressen: 112 buses, 166 passengers
+1262. Esgred: 111 buses, 2986 passengers
+1263. Owen Norrey: 111 buses, 2146 passengers
+1264. Victor Tyrell: 111 buses, 1767 passengers
+1265. Mollos: 110 buses, 1972 passengers
+1266. Dryn: 110 buses, 1357 passengers
+1267. Cleyton Caswell: 110 buses, 197 passengers
+1268. Reek: 109 buses, 2712 passengers
+1269. Calon: 109 buses, 1428 passengers
+1270. Damon Vypren: 109 buses, 879 passengers
+1271. Quellon Botley: 108 buses, 2376 passengers
+1272. Daemon Blackfyre: 108 buses, 1863 passengers
+1273. Robett Glover: 108 buses, 1408 passengers
+1274. Rattleshirt: 107 buses, 2867 passengers
+1275. Robin Greyjoy: 107 buses, 934 passengers
+1276. Orell: 107 buses, 480 passengers
+1277. Jeyne Westerling: 106 buses, 2281 passengers
+1278. Raymund Frey: 106 buses, 2135 passengers
+1279. Varamyr Sixskins: 106 buses, 1937 passengers
+1280. Cetheres: 106 buses, 1418 passengers
+1281. Harlan Grandison: 105 buses, 2584 passengers
+1282. Puckens: 105 buses, 2428 passengers
+1283. Bellonara Otherys: 105 buses, 106 passengers
+1284. Grigg: 105 buses, 47 passengers
+1285. Gormon Tyrell: 104 buses, 2339 passengers
+1286. Alayaya: 104 buses, 2206 passengers
+1287. Fogo: 104 buses, 1738 passengers
+1288. Mern Gardener: 103 buses, 2277 passengers
+1289. Gendel: 103 buses, 1298 passengers
+1290. Desmond Grell: 103 buses, 1118 passengers
+1291. Bedwyck: 103 buses, 527 passengers
+1292. Argilac: 102 buses, 2113 passengers
+1293. Addam Frey: 102 buses, 1749 passengers
+1294. Benedict: 102 buses, 1304 passengers
+1295. Matrice: 102 buses, 716 passengers
+1296. Sarya Whent: 101 buses, 2479 passengers
+1297. Rhllor: 101 buses, 859 passengers
+1298. Gretchel: 101 buses, 693 passengers
+1299. Denestan: 100 buses, 2589 passengers
+1300. Pia: 100 buses, 585 passengers
+1301. Rodrik Flint: 100 buses, 182 passengers
+1302. Joffrey Baratheon: 99 buses, 733 passengers
+1303. Jaime Lannister: 99 buses, 551 passengers
+1304. Gilbert Farring: 99 buses, 358 passengers
+1305. Thomax: 98 buses, 2889 passengers
+1306. Aemon Estermont: 98 buses, 2661 passengers
+1307. Perra Frey: 98 buses, 606 passengers
+1308. Manfred Dondarrion: 97 buses, 2345 passengers
+1309. Allar Deem: 97 buses, 245 passengers
+1310. Gyles: 97 buses, 79 passengers
+1311. Wynafryd Manderly: 96 buses, 2477 passengers
+1312. Lewys: 96 buses, 2156 passengers
+1313. Garth Tyrell: 96 buses, 2125 passengers
+1314. Roryn Drumm: 95 buses, 2068 passengers
+1315. Lyessa Flint: 95 buses, 1399 passengers
+1316. Quincy Cox: 95 buses, 1163 passengers
+1317. Amory Lorch: 94 buses, 2597 passengers
+1318. Tysane Frey: 94 buses, 1488 passengers
+1319. Owen Inchfield: 94 buses, 1435 passengers
+1320. Arron Qorgyle: 94 buses, 1172 passengers
+1321. Humfrey Beesbury: 93 buses, 2507 passengers
+1322. Rolley: 93 buses, 2370 passengers
+1323. Cedra: 93 buses, 671 passengers
+1324. Varys: 92 buses, 2549 passengers
+1325. Creighton Longbough: 92 buses, 2204 passengers
+1326. Helya: 92 buses, 562 passengers
+1327. Aurane Waters: 91 buses, 2603 passengers
+1328. Tyrek Lannister: 91 buses, 1230 passengers
+1329. Urrigon Greyjoy: 91 buses, 830 passengers
+1330. Rat Cook: 91 buses, 385 passengers
+1331. Deana Hardyng: 90 buses, 2118 passengers
+1332. Gawen Swann: 90 buses, 1970 passengers
+1333. Runceford Redwyne: 90 buses, 313 passengers
+1334. Bryan Frey: 89 buses, 2466 passengers
+1335. Cerenna Lannister: 89 buses, 2210 passengers
+1336. Meryn Trant: 89 buses, 2056 passengers
+1337. Samwell Spicer: 88 buses, 2444 passengers
+1338. Alequo Adarys: 88 buses, 1327 passengers
+1339. Irri: 88 buses, 822 passengers
+1340. Jaehaerys II Targaryen: 87 buses, 2851 passengers
+1341. Tytos Brax: 87 buses, 2254 passengers
+1342. Jon Heddle: 87 buses, 1730 passengers
+1343. Dermot: 86 buses, 2522 passengers
+1344. Nage: 86 buses, 1854 passengers
+1345. Robb Stark: 86 buses, 1507 passengers
+1346. Tom Too: 86 buses, 529 passengers
+1347. Courtenay Greenhill: 85 buses, 1334 passengers
+1348. Brienne Of Tarth: 85 buses, 539 passengers
+1349. Eldred Codd: 85 buses, 418 passengers
+1350. Dorcas: 84 buses, 2043 passengers
+1351. Raynald Westerling: 84 buses, 1582 passengers
+1352. Amabel: 84 buses, 1093 passengers
+1353. Elyas Willum: 84 buses, 987 passengers
+1354. Lark: 83 buses, 2768 passengers
+1355. Perwyn Frey: 83 buses, 1358 passengers
+1356. Alyse Ladybright: 83 buses, 1218 passengers
+1357. Alyn Cockshaw: 82 buses, 2964 passengers
+1358. Hugh Clifton: 82 buses, 1552 passengers
+1359. Kirby Pimm: 82 buses, 864 passengers
+1360. Kaeth: 82 buses, 691 passengers
+1361. Norren: 81 buses, 2983 passengers
+1362. Murenmure: 81 buses, 2977 passengers
+1363. Matthos Seaworth: 81 buses, 277 passengers
+1364. Amerei Frey: 80 buses, 2120 passengers
+1365. Nute: 80 buses, 1930 passengers
+1366. Malora Hightower: 80 buses, 204 passengers
+1367. Humfrey Hewett: 79 buses, 2569 passengers
+1368. Garrett Paege: 79 buses, 2505 passengers
+1369. Ferret: 79 buses, 2215 passengers
+1370. Donel Greyjoy: 79 buses, 1650 passengers
+1371. Walder Brax: 78 buses, 961 passengers
+1372. Willit: 78 buses, 519 passengers
+1373. Belwas: 78 buses, 502 passengers
+1374. Bennet: 77 buses, 2845 passengers
+1375. Bryan Fossoway: 77 buses, 2772 passengers
+1376. Ogo: 77 buses, 2559 passengers
+1377. Arneld: 76 buses, 1906 passengers
+1378. Kyle: 76 buses, 1652 passengers
+1379. Sherrit: 76 buses, 837 passengers
+1380. Nolla: 76 buses, 759 passengers
+1381. Cregan Stark: 75 buses, 2799 passengers
+1382. Tumberjon: 75 buses, 2329 passengers
+1383. Alys Beesbury: 75 buses, 2291 passengers
+1384. Andros Brax: 75 buses, 661 passengers
+1385. Theomore Harlaw: 74 buses, 1031 passengers
+1386. Joseth Mallister: 74 buses, 652 passengers
+1387. Gysella Goodbrother: 74 buses, 32 passengers
+1388. Drennan: 73 buses, 1800 passengers
+1389. Andrey Dalt: 73 buses, 1437 passengers
+1390. Gunthor Hightower: 73 buses, 59 passengers
+1391. Sansa Stark: 72 buses, 2864 passengers
+1392. Joss: 72 buses, 882 passengers
+1393. Lymond Vikary: 72 buses, 832 passengers
+1394. Erryk: 71 buses, 2906 passengers
+1395. Roslin Frey: 71 buses, 1287 passengers
+1396. Donnis: 71 buses, 617 passengers
+1397. Weeper: 70 buses, 2434 passengers
+1398. Ralf Stonehouse: 70 buses, 1769 passengers
+1399. Rickard Karstark: 70 buses, 1768 passengers
+1400. Lucos: 69 buses, 2749 passengers
+1401. Bernarr: 69 buses, 2173 passengers
+1402. Wendel Frey: 69 buses, 1237 passengers
+1403. Myles: 69 buses, 1004 passengers
+1404. Clarence Charlton: 68 buses, 2824 passengers
+1405. Branston Cuy: 68 buses, 1900 passengers
+1406. Deziel Dalt: 68 buses, 478 passengers
+1407. Lady Of the Leaves: 67 buses, 2482 passengers
+1408. Alesander Staedmon: 67 buses, 2179 passengers
+1409. Harren Hoare: 67 buses, 2101 passengers
+1410. Aegon I Targaryen: 66 buses, 2937 passengers
+1411. Bran the Builder: 66 buses, 1455 passengers
+1412. Lyonel Tyrell: 66 buses, 515 passengers
+1413. Gendry: 65 buses, 1902 passengers
+1414. Sandor Clegane: 65 buses, 1672 passengers
+1415. Lucias Vypren: 65 buses, 761 passengers
+1416. Gladden Wylde: 64 buses, 2274 passengers
+1417. Omer Florent: 64 buses, 1747 passengers
+1418. Redtusk: 64 buses, 435 passengers
+1419. Squint: 64 buses, 282 passengers
+1420. Edrick Stark: 63 buses, 2177 passengers
+1421. Bethany Bracken: 63 buses, 1834 passengers
+1422. Robb Reyne: 63 buses, 1342 passengers
+1423. Lister: 62 buses, 2493 passengers
+1424. Porther: 62 buses, 2112 passengers
+1425. Barra: 62 buses, 2074 passengers
+1426. Maynard Plumm: 61 buses, 2224 passengers
+1427. Tywin Frey: 61 buses, 612 passengers
+1428. Rolder: 61 buses, 194 passengers
+1429. Bessa: 60 buses, 2659 passengers
+1430. Waymar Royce: 60 buses, 1123 passengers
+1431. Lord Walder Frey: 60 buses, 144 passengers
+1432. Helliweg: 59 buses, 2813 passengers
+1433. Theo Frey: 59 buses, 1827 passengers
+1434. Jon: 59 buses, 49 passengers
+1435. Harrion Karstark: 58 buses, 2959 passengers
+1436. Quenten Banefort: 58 buses, 803 passengers
+1437. O: 58 buses, 263 passengers
+1438. Vargo Hoat: 58 buses, 173 passengers
+1439. Lyn Corbray: 57 buses, 2261 passengers
+1440. Olyvar Martell: 57 buses, 1489 passengers
+1441. Utherydes Wayn: 57 buses, 964 passengers
+1442. Quellon Greyjoy: 56 buses, 2693 passengers
+1443. Imry Florent: 56 buses, 970 passengers
+1444. Stiv: 56 buses, 955 passengers
+1445. Mathis Rowan: 55 buses, 2448 passengers
+1446. Omer Blackberry: 55 buses, 1355 passengers
+1447. Arianne Of Tarth: 55 buses, 1029 passengers
+1448. Rudge: 54 buses, 2455 passengers
+1449. Rylene Florent: 54 buses, 2013 passengers
+1450. Obella Sand: 54 buses, 1419 passengers
+1451. Janei Lannister: 53 buses, 1486 passengers
+1452. Robert Paege: 53 buses, 838 passengers
+1453. Lanna Lannister: 53 buses, 616 passengers
+1454. Rast: 53 buses, 536 passengers
+1455. Wolmer: 52 buses, 2676 passengers
+1456. Barba Bracken: 52 buses, 2243 passengers
+1457. Halleck: 52 buses, 1592 passengers
+1458. Joth Quickbow: 51 buses, 2764 passengers
+1459. Jon Penny: 51 buses, 2276 passengers
+1460. Helly: 51 buses, 1789 passengers
+1461. Halder: 50 buses, 2421 passengers
+1462. Dudley: 50 buses, 1618 passengers
+1463. Corenna Swann: 50 buses, 218 passengers
+1464. Jacks: 49 buses, 1504 passengers
+1465. Hugh Beesbury: 49 buses, 1239 passengers
+1466. Jon Penrose: 49 buses, 131 passengers
+1467. Walton Stark: 48 buses, 2991 passengers
+1468. Quaro: 48 buses, 1708 passengers
+1469. Mallor: 48 buses, 367 passengers
+1470. Grance Morrigen: 47 buses, 2270 passengers
+1471. Perriane Frey: 47 buses, 2002 passengers
+1472. Ethan Glover: 47 buses, 1168 passengers
+1473. Sebaston Farman: 46 buses, 2739 passengers
+1474. Hobber Redwyne: 46 buses, 2044 passengers
+1475. Alysanne Of Tarth: 46 buses, 1986 passengers
+1476. Bodger: 45 buses, 765 passengers
+1477. Clarence Crabb: 45 buses, 711 passengers
+1478. Rickard Tyrell: 45 buses, 170 passengers
+1479. Moonshadow: 44 buses, 2834 passengers
+1480. Hotho Harlaw: 44 buses, 569 passengers
+1481. Arthur Dayne: 44 buses, 439 passengers
+1482. Styr: 43 buses, 2968 passengers
+1483. Jack Bulwer: 43 buses, 2698 passengers
+1484. Ottyn Wythers: 43 buses, 2641 passengers
+1485. Tommen II Lannister: 42 buses, 2131 passengers
+1486. Benjen Stark: 42 buses, 1624 passengers
+1487. Daryn Hornwood: 42 buses, 1169 passengers
+1488. Collio Quaynis: 41 buses, 1711 passengers
+1489. Kyra Frey: 41 buses, 936 passengers
+1490. Ocley: 41 buses, 305 passengers
+1491. Victarion Greyjoy: 41 buses, 141 passengers
+1492. Dilly: 40 buses, 956 passengers
+1493. Rolland Storm: 40 buses, 780 passengers
+1494. Bella: 40 buses, 573 passengers
+1495. Aemon Costayne: 39 buses, 1692 passengers
+1496. Harlon Botley: 39 buses, 1535 passengers
+1497. Alyn Ambrose: 39 buses, 364 passengers
+1498. Rodrik Stark: 38 buses, 2222 passengers
+1499. Moribald Chester: 38 buses, 999 passengers
+1500. Berena Hornwood: 38 buses, 811 passengers
+1501. Cynthea Frey: 37 buses, 312 passengers
+1502. Cadwyl: 37 buses, 200 passengers
+1503. Jory Cassel: 37 buses, 181 passengers
+1504. Torrek: 36 buses, 1974 passengers
+1505. Will: 36 buses, 1610 passengers
+1506. Melisandre: 36 buses, 1005 passengers
+1507. Illyrio Mopatis: 35 buses, 2518 passengers
+1508. Willam Stark: 35 buses, 1627 passengers
+1509. Lorren: 35 buses, 1116 passengers
+1510. Mebble: 35 buses, 713 passengers
+1511. Lucimore Botley: 34 buses, 2289 passengers
+1512. Illifer: 34 buses, 1634 passengers
+1513. Duram Bar Emmon: 34 buses, 571 passengers
+1514. Domeric Bolton: 34 buses, 230 passengers
+1515. Tobbot: 33 buses, 1690 passengers
+1516. Alester Norcross: 33 buses, 1115 passengers
+1517. Vayon Poole: 33 buses, 816 passengers
+1518. Lanna: 32 buses, 1755 passengers
+1519. Sybell Spicer: 32 buses, 1549 passengers
+1520. Robin Flint: 32 buses, 1224 passengers
+1521. Galtry the Green: 31 buses, 2703 passengers
+1522. Humfrey Hightower: 31 buses, 2042 passengers
+1523. Rosey: 31 buses, 1983 passengers
+1524. Geremy Frey: 31 buses, 531 passengers
+1525. Philip Foote: 30 buses, 2516 passengers
+1526. Anya Waynwood: 30 buses, 1941 passengers
+1527. Lyanna Mormont: 30 buses, 785 passengers
+1528. Urron Greyiron: 29 buses, 2217 passengers
+1529. Mikken: 29 buses, 2119 passengers
+1530. Cley Cerwyn: 29 buses, 959 passengers
+1531. Arwyn Oakheart: 28 buses, 2537 passengers
+1532. Rhaenys Targaryen: 28 buses, 1313 passengers
+1533. Lyonel Corbray: 28 buses, 757 passengers
+1534. Lomas Estermont: 27 buses, 2599 passengers
+1535. Della Frey: 27 buses, 2432 passengers
+1536. Moon Boy: 27 buses, 850 passengers
+1537. Doran Martell: 27 buses, 544 passengers
+1538. Meldred Merlyn: 26 buses, 2272 passengers
+1539. Melaquin: 26 buses, 1259 passengers
+1540. Orbelo: 26 buses, 948 passengers
+1541. Terrence Toyne: 26 buses, 587 passengers
+1542. Sumner Crakehall: 25 buses, 2630 passengers
+1543. Damon Marbrand: 25 buses, 1301 passengers
+1544. Tybolt Lannister: 25 buses, 1173 passengers
+1545. Hother Umber: 24 buses, 1656 passengers
+1546. Davos Seaworth: 24 buses, 1074 passengers
+1547. Rolland Darklyn: 24 buses, 462 passengers
+1548. Viserys I Targaryen: 23 buses, 2657 passengers
+1549. Gyles Farwynd: 23 buses, 1882 passengers
+1550. Harwin: 23 buses, 1580 passengers
+1551. Tom Costayne: 23 buses, 1515 passengers
+1552. Nymeria Sand: 22 buses, 2719 passengers
+1553. Myles Smallwood: 22 buses, 2311 passengers
+1554. Garth XII Gardener: 22 buses, 672 passengers
+1555. Glendon Hewett: 22 buses, 95 passengers
+1556. Jate: 21 buses, 2640 passengers
+1557. Morgil: 21 buses, 2153 passengers
+1558. Colin Florent: 21 buses, 1184 passengers
+1559. Jeyne Fowler: 20 buses, 2557 passengers
+1560. Wat: 20 buses, 2229 passengers
+1561. Lucan: 20 buses, 1963 passengers
+1562. Willum: 20 buses, 1665 passengers
+1563. Gormond Drumm: 19 buses, 2856 passengers
+1564. Nella: 19 buses, 2290 passengers
+1565. Franklyn Fowler: 19 buses, 447 passengers
+1566. Mirri Maz Duur: 18 buses, 2502 passengers
+1567. Blane: 18 buses, 1649 passengers
+1568. Garth: 18 buses, 730 passengers
+1569. Maynard: 18 buses, 725 passengers
+1570. Uthor Underleaf: 17 buses, 2476 passengers
+1571. Lum: 17 buses, 1654 passengers
+1572. Tyrion Waters: 17 buses, 984 passengers
+1573. Mycah: 17 buses, 940 passengers
+1574. Lysa Tully: 16 buses, 1853 passengers
+1575. Delena Florent: 16 buses, 743 passengers
+1576. Harlon Greyjoy: 16 buses, 558 passengers
+1577. Leyton Hightower: 16 buses, 354 passengers
+1578. Arnolf Karstark: 15 buses, 1006 passengers
+1579. Daeron I Targaryen: 15 buses, 762 passengers
+1580. Guyne: 15 buses, 488 passengers
+1581. Eustace Brune: 14 buses, 2829 passengers
+1582. Cosgrove: 14 buses, 1248 passengers
+1583. Ollo Lophand: 14 buses, 238 passengers
+1584. Melara Crane: 13 buses, 2081 passengers
+1585. Rafford: 13 buses, 706 passengers
+1586. Jon Brax: 13 buses, 184 passengers
+1587. Coldhands: 12 buses, 2209 passengers
+1588. Harren: 12 buses, 1235 passengers
+1589. Mohor: 12 buses, 382 passengers
+1590. Benedar Belmore: 12 buses, 158 passengers
+1591. Pearse Caron: 11 buses, 2711 passengers
+1592. Narbert: 11 buses, 1741 passengers
+1593. Jyck: 11 buses, 1135 passengers
+1594. Doreah: 10 buses, 2221 passengers
+1595. Maron Volmark: 10 buses, 880 passengers
+1596. Ralf: 10 buses, 482 passengers
+1597. Urek: 9 buses, 564 passengers
+1598. Lyle Crakehall: 9 buses, 301 passengers
+1599. Aubrey Ambrose: 9 buses, 214 passengers
+1600. Quenton Greyjoy: 9 buses, 61 passengers
+1601. Bellegere Otherys: 8 buses, 2812 passengers
+1602. Terrence Kenning: 8 buses, 2722 passengers
+1603. Quaithe: 8 buses, 2626 passengers
+1604. Greydon Goodbrother: 7 buses, 2697 passengers
+1605. Tuffleberry: 7 buses, 2614 passengers
+1606. Rawney: 7 buses, 674 passengers
+1607. Olymer Tyrell: 6 buses, 848 passengers
+1608. Lucas Codd: 6 buses, 324 passengers
+1609. Grubbs: 6 buses, 126 passengers
+1610. Jack Be Lucky: 5 buses, 2326 passengers
+1611. Corliss Penny: 5 buses, 734 passengers
+1612. Donnel Of Duskendale: 5 buses, 696 passengers
+1613. Gynir: 4 buses, 2014 passengers
+1614. Garse Goodbrook: 4 buses, 1175 passengers
+1615. Dagon: 4 buses, 78 passengers
+1616. Moro: 3 buses, 2686 passengers
+1617. Damion Lannister: 3 buses, 1122 passengers
+1618. Pate the Pig Boy: 3 buses, 416 passengers
+1619. Bryce Caron: 2 buses, 1395 passengers
+1620. Renly Norcross: 2 buses, 1106 passengers
+1621. Luceon Frey: 2 buses, 520 passengers
+1622. Mya Stone: 1 buses, 2771 passengers
+1623. Jasper Arryn: 1 buses, 2420 passengers
+1624. Melwyn Sarsfield: 1 buses, 210 passengers
+> S Jon Snow
+453. Jon Snow: 361 buses, 1041 passengers
+> A
+Abelar Hightower: 424 buses, 823 passengers
+Addam: 210 buses, 2445 passengers
+Addam Frey: 102 buses, 1749 passengers
+Addam Marbrand: 160 buses, 2962 passengers
+Addam Osgrey: 421 buses, 547 passengers
+Addison Hill: 318 buses, 1257 passengers
+Aegon Blackfyre: 293 buses, 589 passengers
+Aegon Frey: 144 buses, 2743 passengers
+Aegon I Targaryen: 66 buses, 2937 passengers
+Aegon II Targaryen: 128 buses, 1107 passengers
+Aegon III Targaryen: 170 buses, 1785 passengers
+Aegon IV Targaryen: 124 buses, 1714 passengers
+Aegon V Targaryen: 372 buses, 2982 passengers
+Aegor Rivers: 477 buses, 315 passengers
+Aemon Blackfyre: 127 buses, 2484 passengers
+Aemon Costayne: 39 buses, 1692 passengers
+Aemon Estermont: 98 buses, 2661 passengers
+Aemon Rivers: 171 buses, 430 passengers
+Aemon Targaryen: 411 buses, 57 passengers
+Aenar Targaryen: 156 buses, 2315 passengers
+Aenys Frey: 346 buses, 686 passengers
+Aenys I Targaryen: 172 buses, 2728 passengers
+Aeron Greyjoy: 463 buses, 1753 passengers
+Aerys I Targaryen: 324 buses, 1337 passengers
+Aerys II Targaryen: 340 buses, 1401 passengers
+Aethelmure: 417 buses, 1598 passengers
+Aggar: 180 buses, 2422 passengers
+Aggo: 500 buses, 417 passengers
+Agrivane: 255 buses, 2792 passengers
+Aladale Wynch: 309 buses, 88 passengers
+Alannys Harlaw: 213 buses, 2225 passengers
+Alayaya: 104 buses, 2206 passengers
+Albar Royce: 272 buses, 70 passengers
+Albett: 178 buses, 123 passengers
+Alebelly: 464 buses, 2949 passengers
+Alekyne Florent: 308 buses, 1875 passengers
+Alequo Adarys: 88 buses, 1327 passengers
+Alerie Hightower: 283 buses, 2872 passengers
+Alesander Frey: 117 buses, 386 passengers
+Alesander Staedmon: 67 buses, 2179 passengers
+Alesander Torrent: 118 buses, 497 passengers
+Alester Florent: 317 buses, 1742 passengers
+Alester Norcross: 33 buses, 1115 passengers
+Alester Oakheart: 277 buses, 2009 passengers
+Alfyn Crowkiller: 223 buses, 40 passengers
+Alia Of Braavos: 498 buses, 2328 passengers
+Alla Tyrell: 387 buses, 508 passengers
+Allar Deem: 97 buses, 245 passengers
+Allard Seaworth: 281 buses, 977 passengers
+Alleras: 427 buses, 1602 passengers
+Alliser Thorne: 315 buses, 487 passengers
+Allyria Dayne: 472 buses, 428 passengers
+Alvyn Sharp: 346 buses, 269 passengers
+Alyce: 121 buses, 1676 passengers
+Alyce Dunn: 151 buses, 504 passengers
+Alyce Graceford: 216 buses, 2573 passengers
+Alyn: 410 buses, 2861 passengers
+Alyn Ambrose: 39 buses, 364 passengers
+Alyn Cockshaw: 82 buses, 2964 passengers
+Alyn Connington: 451 buses, 1951 passengers
+Alyn Estermont: 144 buses, 1635 passengers
+Alyn Frey: 307 buses, 916 passengers
+Alyn Haigh: 478 buses, 1086 passengers
+Alyn Hunt: 206 buses, 2736 passengers
+Alyn Stackspear: 154 buses, 533 passengers
+Alys Arryn: 215 buses, 2794 passengers
+Alys Beesbury: 75 buses, 2291 passengers
+Alys Frey: 442 buses, 2745 passengers
+Alys Karstark: 452 buses, 2242 passengers
+Alysane Mormont: 347 buses, 183 passengers
+Alysanne Bulwer: 123 buses, 561 passengers
+Alysanne Hightower: 239 buses, 1019 passengers
+Alysanne Lefford: 480 buses, 2875 passengers
+Alysanne Of Tarth: 46 buses, 1986 passengers
+Alysanne Osgrey: 325 buses, 1170 passengers
+Alyse Ladybright: 83 buses, 1218 passengers
+Alyssa Arryn: 165 buses, 93 passengers
+Alyssa Blackwood: 278 buses, 372 passengers
+Alyx Frey: 452 buses, 2932 passengers
+Amabel: 84 buses, 1093 passengers
+Amarei Crakehall: 243 buses, 399 passengers
+Ambrode: 280 buses, 2811 passengers
+Ambrose Butterwell: 377 buses, 1791 passengers
+Amerei Frey: 80 buses, 2120 passengers
+Amory Lorch: 94 buses, 2597 passengers
+Andar Royce: 236 buses, 851 passengers
+Anders Yronwood: 395 buses, 745 passengers
+Andrew Estermont: 285 buses, 687 passengers
+Andrey Charlton: 453 buses, 1464 passengers
+Andrey Dalt: 73 buses, 1437 passengers
+Andrik: 119 buses, 1281 passengers
+Andros Brax: 75 buses, 661 passengers
+Androw Ashford: 479 buses, 1389 passengers
+Androw Frey: 492 buses, 2108 passengers
+Anguy: 153 buses, 905 passengers
+Antario Jast: 419 buses, 2680 passengers
+Anvil Ryn: 496 buses, 2275 passengers
+Anya Waynwood: 30 buses, 1941 passengers
+Ardrian Celtigar: 344 buses, 1533 passengers
+Areo Hotah: 280 buses, 1751 passengers
+Argilac: 102 buses, 2113 passengers
+Argrave the Defiant: 174 buses, 318 passengers
+Arianne Martell: 259 buses, 1830 passengers
+Arianne Of Tarth: 55 buses, 1029 passengers
+Arlan Of Pennytree: 178 buses, 205 passengers
+Armen: 489 buses, 957 passengers
+Armen the Acolyte: 438 buses, 331 passengers
+Armond Caswell: 246 buses, 2529 passengers
+Arneld: 76 buses, 1906 passengers
+Arnell: 279 buses, 2689 passengers
+Arnolf Karstark: 15 buses, 1006 passengers
+Aron Santagar: 384 buses, 1037 passengers
+Arrec: 154 buses, 1567 passengers
+Arron: 189 buses, 2433 passengers
+Arron Qorgyle: 94 buses, 1172 passengers
+Arryk: 298 buses, 1563 passengers
+Arson: 457 buses, 2636 passengers
+Arthur Ambrose: 425 buses, 1691 passengers
+Arthur Dayne: 44 buses, 439 passengers
+Artos Stark: 284 buses, 2149 passengers
+Artys Arryn: 280 buses, 381 passengers
+Arwood Frey: 312 buses, 2286 passengers
+Arwyn Frey: 153 buses, 2555 passengers
+Arwyn Oakheart: 28 buses, 2537 passengers
+Arya Stark: 298 buses, 783 passengers
+Arys Oakheart: 212 buses, 1956 passengers
+Asha Greyjoy: 273 buses, 1294 passengers
+Ashara Dayne: 122 buses, 732 passengers
+Assadora Of Ibben: 291 buses, 2015 passengers
+Aubrey Ambrose: 9 buses, 214 passengers
+Aurane Waters: 91 buses, 2603 passengers
+Axell Florent: 183 buses, 1670 passengers
+Bael: 370 buses, 1995 passengers
+Baelor Blacktyde: 413 buses, 1114 passengers
+Baelor Hightower: 215 buses, 2939 passengers
+Baelor I Targaryen: 327 buses, 1458 passengers
+Ballabar: 278 buses, 2820 passengers
+Balman Byrch: 316 buses, 1097 passengers
+Balon Botley: 314 buses, 371 passengers
+Balon Greyjoy: 176 buses, 2248 passengers
+Balon Swann: 460 buses, 450 passengers
+Bandy: 351 buses, 1326 passengers
+Bannen: 367 buses, 598 passengers
+Barba Bracken: 52 buses, 2243 passengers
+Barbrey Ryswell: 327 buses, 969 passengers
+Barra: 62 buses, 2074 passengers
+Barristan Selmy: 274 buses, 2200 passengers
+Barth: 167 buses, 2273 passengers
+Barth Stark: 287 buses, 867 passengers
+Bass: 197 buses, 1761 passengers
+Bayard Norcross: 181 buses, 325 passengers
+Beardless Dick: 282 buses, 188 passengers
+Becca: 187 buses, 2628 passengers
+Beck: 302 buses, 1339 passengers
+Bedwyck: 103 buses, 527 passengers
+Belandra: 248 buses, 1132 passengers
+Belgrave: 162 buses, 2259 passengers
+Bella: 40 buses, 573 passengers
+Bellegere Otherys: 8 buses, 2812 passengers
+Bellena Hawick: 271 buses, 130 passengers
+Bellonara Otherys: 105 buses, 106 passengers
+Belwas: 78 buses, 502 passengers
+Ben: 368 buses, 1564 passengers
+Ben Beesbury: 167 buses, 2611 passengers
+Ben Blackthumb: 224 buses, 2181 passengers
+Ben Bushy: 311 buses, 421 passengers
+Benedar Belmore: 12 buses, 158 passengers
+Benedict: 102 buses, 1304 passengers
+Benedict Broom: 257 buses, 1908 passengers
+Benfred Tallhart: 350 buses, 1588 passengers
+Benfrey Frey: 448 buses, 906 passengers
+Benjen Stark: 42 buses, 1624 passengers
+Bennard Brune: 145 buses, 89 passengers
+Bennarion Botley: 445 buses, 1470 passengers
+Bennet: 77 buses, 2845 passengers
+Bennis: 151 buses, 1262 passengers
+Beony Beesbury: 138 buses, 1617 passengers
+Beren Tallhart: 271 buses, 518 passengers
+Berena Hornwood: 38 buses, 811 passengers
+Beric Dondarrion: 367 buses, 1227 passengers
+Bernarr: 69 buses, 2173 passengers
+Beron Blacktyde: 394 buses, 2050 passengers
+Beron Stark: 265 buses, 1905 passengers
+Bertram Beesbury: 322 buses, 1264 passengers
+Bessa: 60 buses, 2659 passengers
+Beth Cassel: 454 buses, 2262 passengers
+Bethany: 120 buses, 1193 passengers
+Bethany Bracken: 63 buses, 1834 passengers
+Bethany Fair Fingers: 331 buses, 2805 passengers
+Bethany Redwyne: 200 buses, 1180 passengers
+Bethany Ryswell: 428 buses, 778 passengers
+Betharios Of Braavos: 393 buses, 1546 passengers
+Big Boil: 429 buses, 1126 passengers
+Biter: 442 buses, 1793 passengers
+Black Walder Frey: 455 buses, 1400 passengers
+Blane: 18 buses, 1649 passengers
+Bluetooth: 386 buses, 646 passengers
+Bodger: 45 buses, 765 passengers
+Bonifer Hasty: 439 buses, 2234 passengers
+Borcas: 359 buses, 1529 passengers
+Boremund Harlaw: 407 buses, 1780 passengers
+Boros Blount: 294 buses, 2356 passengers
+Bors: 252 buses, 1639 passengers
+Bowen Marsh: 479 buses, 2873 passengers
+Bradamar Frey: 164 buses, 2500 passengers
+Bran Stark: 311 buses, 2629 passengers
+Bran the Builder: 66 buses, 1455 passengers
+Brandon Norrey: 276 buses, 2051 passengers
+Brandon Stark: 202 buses, 426 passengers
+Brandon Tallhart: 486 buses, 1687 passengers
+Branston Cuy: 68 buses, 1900 passengers
+Brella: 346 buses, 161 passengers
+Brenett: 196 buses, 1497 passengers
+Brienne Of Tarth: 85 buses, 539 passengers
+Bronn: 145 buses, 737 passengers
+Brusco: 321 buses, 295 passengers
+Bryan Fossoway: 77 buses, 2772 passengers
+Bryan Frey: 89 buses, 2466 passengers
+Bryce Caron: 2 buses, 1395 passengers
+Bryen: 320 buses, 2835 passengers
+Bryen Caron: 165 buses, 1820 passengers
+Bryen Farring: 229 buses, 1161 passengers
+Brynden Rivers: 398 buses, 2064 passengers
+Brynden Tully: 296 buses, 1640 passengers
+Buford Bulwer: 210 buses, 376 passengers
+Burton Crakehall: 430 buses, 1156 passengers
+Butterbumps: 128 buses, 897 passengers
+Byam Flint: 266 buses, 621 passengers
+Byan Votyris: 198 buses, 2998 passengers
+Byren Flowers: 485 buses, 2449 passengers
+Byron: 301 buses, 870 passengers
+C: 360 buses, 1272 passengers
+Cadwyl: 37 buses, 200 passengers
+Cadwyn: 152 buses, 1891 passengers
+Caleotte: 356 buses, 2041 passengers
+Calon: 109 buses, 1428 passengers
+Canker Jeyne: 115 buses, 1211 passengers
+Carellen Smallwood: 289 buses, 138 passengers
+Carolei Waynwood: 435 buses, 1226 passengers
+Carrot: 465 buses, 2714 passengers
+Cass: 480 buses, 1374 passengers
+Cassana Estermont: 479 buses, 2984 passengers
+Cassella Vaith: 436 buses, 2046 passengers
+Castos: 476 buses, 2193 passengers
+Catelyn Tully: 238 buses, 801 passengers
+Cayn: 481 buses, 2979 passengers
+Cedra: 93 buses, 671 passengers
+Cedric Payne: 337 buses, 1091 passengers
+Cedrik Storm: 369 buses, 1191 passengers
+Cellador: 445 buses, 1343 passengers
+Cerenna Lannister: 89 buses, 2210 passengers
+Cerrick: 473 buses, 390 passengers
+Cersei Frey: 206 buses, 559 passengers
+Cersei Lannister: 174 buses, 2407 passengers
+Cetheres: 106 buses, 1418 passengers
+Chayle: 390 buses, 105 passengers
+Chella: 185 buses, 1828 passengers
+Chett: 305 buses, 2579 passengers
+Chiggen: 449 buses, 2558 passengers
+Chiswyck: 256 buses, 2437 passengers
+Clarence Charlton: 68 buses, 2824 passengers
+Clarence Crabb: 45 buses, 711 passengers
+Clayton Suggs: 214 buses, 2373 passengers
+Clement: 441 buses, 2534 passengers
+Clement Crabb: 351 buses, 1998 passengers
+Clement Piper: 492 buses, 2038 passengers
+Cleon: 186 buses, 2048 passengers
+Cleos Frey: 369 buses, 2441 passengers
+Cletus Yronwood: 266 buses, 835 passengers
+Cley Cerwyn: 29 buses, 959 passengers
+Cleyton Caswell: 110 buses, 197 passengers
+Clifford Conklyn: 151 buses, 1801 passengers
+Clydas: 371 buses, 2586 passengers
+Cohollo: 373 buses, 369 passengers
+Coldhands: 12 buses, 2209 passengers
+Colemon: 375 buses, 2208 passengers
+Colen Of Greenpools: 194 buses, 1250 passengers
+Colin Florent: 21 buses, 1184 passengers
+Collio Quaynis: 41 buses, 1711 passengers
+Colloquo Votar: 260 buses, 857 passengers
+Colmar Frey: 193 buses, 1899 passengers
+Conn: 223 buses, 2545 passengers
+Conwy: 219 buses, 1015 passengers
+Corenna Swann: 50 buses, 218 passengers
+Corliss Penny: 5 buses, 734 passengers
+Cortnay Penrose: 433 buses, 575 passengers
+Cosgrove: 14 buses, 1248 passengers
+Cotter Pyke: 361 buses, 1684 passengers
+Courtenay Greenhill: 85 buses, 1334 passengers
+Cragorn: 432 buses, 1228 passengers
+Craster: 439 buses, 2620 passengers
+Crawn: 364 buses, 941 passengers
+Cregan Stark: 75 buses, 2799 passengers
+Creighton Longbough: 92 buses, 2204 passengers
+Creighton Redfort: 235 buses, 1223 passengers
+Cressen: 112 buses, 166 passengers
+Creylen: 489 buses, 448 passengers
+Criston Cole: 169 buses, 186 passengers
+Cuger: 325 buses, 178 passengers
+Cutjack: 444 buses, 2774 passengers
+Cynthea Frey: 37 buses, 312 passengers
+Cyrenna Swann: 175 buses, 2815 passengers
+Daario Naharis: 342 buses, 1162 passengers
+Dacey Mormont: 197 buses, 2612 passengers
+Dacks: 231 buses, 405 passengers
+Daemon Blackfyre: 108 buses, 1863 passengers
+Daemon II Blackfyre: 498 buses, 2576 passengers
+Daemon Sand: 418 buses, 1174 passengers
+Daenerys Targaryen: 379 buses, 2126 passengers
+Daeron I Targaryen: 15 buses, 762 passengers
+Daeron II Targaryen: 344 buses, 2769 passengers
+Daeron Vaith: 284 buses, 1335 passengers
+Dafyn Vance: 201 buses, 1100 passengers
+Dagmer: 122 buses, 2723 passengers
+Dagon: 4 buses, 78 passengers
+Dagon Greyjoy: 253 buses, 1069 passengers
+Dagos Manwoody: 404 buses, 2292 passengers
+Dake: 230 buses, 721 passengers
+Dale Drumm: 319 buses, 1028 passengers
+Dalla: 123 buses, 486 passengers
+Damion Lannister: 3 buses, 1122 passengers
+Damon Lannister: 306 buses, 2278 passengers
+Damon Marbrand: 25 buses, 1301 passengers
+Damon Paege: 488 buses, 2944 passengers
+Damon Shett: 491 buses, 1699 passengers
+Damon Vypren: 109 buses, 879 passengers
+Dan: 251 buses, 2539 passengers
+Dancy: 152 buses, 1039 passengers
+Danelle Lothston: 221 buses, 474 passengers
+Danny Flint: 173 buses, 1046 passengers
+Danwell Frey: 418 buses, 1839 passengers
+Dareon: 150 buses, 659 passengers
+Darlessa Marbrand: 299 buses, 1512 passengers
+Daryn Hornwood: 42 buses, 1169 passengers
+Daven Lannister: 122 buses, 1562 passengers
+Davos Seaworth: 24 buses, 1074 passengers
+Deana Hardyng: 90 buses, 2118 passengers
+Del: 304 buses, 2403 passengers
+Delena Florent: 16 buses, 743 passengers
+Della Frey: 27 buses, 2432 passengers
+Delonne Allyrion: 177 buses, 28 passengers
+Delp: 430 buses, 97 passengers
+Demon Of Darry: 115 buses, 1939 passengers
+Denestan: 100 buses, 2589 passengers
+Dennett: 263 buses, 601 passengers
+Dennis Plumm: 432 buses, 2442 passengers
+Denyo Terys: 395 buses, 1067 passengers
+Denys Arryn: 205 buses, 983 passengers
+Denys Darklyn: 304 buses, 2260 passengers
+Denys Drumm: 260 buses, 2489 passengers
+Denys Mallister: 277 buses, 1065 passengers
+Denys Redwyne: 143 buses, 2616 passengers
+Denyse Hightower: 412 buses, 1447 passengers
+Deremond: 382 buses, 223 passengers
+Dermot: 86 buses, 2522 passengers
+Desmera Redwyne: 422 buses, 1583 passengers
+Desmond: 490 buses, 1143 passengers
+Desmond Grell: 103 buses, 1118 passengers
+Desmond Redwyne: 241 buses, 1179 passengers
+Devan Seaworth: 470 buses, 2462 passengers
+Deziel Dalt: 68 buses, 478 passengers
+Dick Crabb: 302 buses, 1133 passengers
+Dickon Frey: 227 buses, 2365 passengers
+Dickon Manwoody: 475 buses, 2838 passengers
+Dickon Tarly: 426 buses, 1561 passengers
+Dilly: 40 buses, 956 passengers
+Dirk: 455 buses, 1643 passengers
+Dobber: 469 buses, 444 passengers
+Dolf: 168 buses, 2758 passengers
+Domeric Bolton: 34 buses, 230 passengers
+Donal Noye: 386 buses, 1377 passengers
+Donel Greyjoy: 79 buses, 1650 passengers
+Donella Manderly: 189 buses, 2059 passengers
+Donnel Drumm: 195 buses, 2183 passengers
+Donnel Haigh: 254 buses, 807 passengers
+Donnel Hill: 270 buses, 1491 passengers
+Donnel Locke: 485 buses, 2886 passengers
+Donnel Of Duskendale: 5 buses, 696 passengers
+Donnel Swann: 211 buses, 866 passengers
+Donnel Waynwood: 165 buses, 1700 passengers
+Donnis: 71 buses, 617 passengers
+Donnor Saltcliffe: 469 buses, 1043 passengers
+Donnor Stark: 251 buses, 329 passengers
+Doran Martell: 27 buses, 544 passengers
+Dorcas: 84 buses, 2043 passengers
+Dorea Sand: 157 buses, 2238 passengers
+Doreah: 10 buses, 2221 passengers
+Dormund: 495 buses, 1101 passengers
+Dorna Swyft: 388 buses, 98 passengers
+Dorren Stark: 315 buses, 1851 passengers
+Drennan: 73 buses, 1800 passengers
+Dryn: 110 buses, 1357 passengers
+Dudley: 50 buses, 1618 passengers
+Dunaver: 289 buses, 1720 passengers
+Dunk: 190 buses, 1704 passengers
+Dunsen: 314 buses, 2862 passengers
+Dunstan Drumm: 402 buses, 86 passengers
+Duram Bar Emmon: 34 buses, 571 passengers
+Durran: 446 buses, 689 passengers
+Dyah: 482 buses, 915 passengers
+Dykk Harlaw: 130 buses, 1384 passengers
+Ebrose: 140 buses, 2973 passengers
+Eddara Tallhart: 340 buses, 2310 passengers
+Eddard Karstark: 365 buses, 640 passengers
+Eddard Stark: 227 buses, 2650 passengers
+Edderion Stark: 401 buses, 46 passengers
+Eddison Tollett: 120 buses, 216 passengers
+Eden Risley: 418 buses, 2670 passengers
+Edgerran Oakheart: 174 buses, 2560 passengers
+Edmund Ambrose: 382 buses, 2207 passengers
+Edmund Waxley: 168 buses, 2563 passengers
+Edmure Tully: 423 buses, 1090 passengers
+Edmyn Tully: 226 buses, 627 passengers
+Edric Dayne: 199 buses, 891 passengers
+Edric Storm: 224 buses, 919 passengers
+Edrick Stark: 63 buses, 2177 passengers
+Edwyd Fossoway: 141 buses, 1623 passengers
+Edwyle Stark: 342 buses, 56 passengers
+Edwyn Frey: 421 buses, 279 passengers
+Edwyn Osgrey: 238 buses, 1451 passengers
+Edwyn Stark: 492 buses, 2106 passengers
+Eggon: 459 buses, 1696 passengers
+Elbert Arryn: 347 buses, 1557 passengers
+Eldiss: 290 buses, 1429 passengers
+Eldon Estermont: 275 buses, 697 passengers
+Eldred Codd: 85 buses, 418 passengers
+Eleanor Mooton: 187 buses, 1247 passengers
+Elenei: 225 buses, 2080 passengers
+Elenya Westerling: 408 buses, 1088 passengers
+Elia Martell: 199 buses, 1578 passengers
+Elia Sand: 402 buses, 1719 passengers
+Elinor Tyrell: 465 buses, 628 passengers
+Ellaria Sand: 326 buses, 1537 passengers
+Ellery Vance: 463 buses, 463 passengers
+Ellyn Tarbeck: 301 buses, 1844 passengers
+Elmar Frey: 262 buses, 1616 passengers
+Elwood: 454 buses, 1417 passengers
+Elwood Meadows: 289 buses, 2837 passengers
+Elyana Vypren: 447 buses, 39 passengers
+Elyas Willum: 84 buses, 987 passengers
+Elyn Norridge: 148 buses, 1267 passengers
+Elys Waynwood: 211 buses, 281 passengers
+Elys Westerling: 113 buses, 1205 passengers
+Emberlei Frey: 362 buses, 769 passengers
+Emma: 133 buses, 1997 passengers
+Emmon Cuy: 467 buses, 157 passengers
+Emmon Frey: 112 buses, 605 passengers
+Emmond: 203 buses, 2395 passengers
+Emphyria Vance: 201 buses, 2018 passengers
+Emrick: 323 buses, 705 passengers
+Endehar: 113 buses, 1483 passengers
+Endrew Tarth: 390 buses, 2235 passengers
+Enger: 344 buses, 596 passengers
+Eon Hunter: 156 buses, 1251 passengers
+Erena Glover: 221 buses, 2330 passengers
+Erik: 384 buses, 1176 passengers
+Ermesande Hayford: 286 buses, 2613 passengers
+Eroeh: 494 buses, 2001 passengers
+Erreck: 472 buses, 2269 passengers
+Erreg: 239 buses, 145 passengers
+Erren Florent: 410 buses, 2536 passengers
+Errok: 459 buses, 2033 passengers
+Erryk: 71 buses, 2906 passengers
+Esgred: 111 buses, 2986 passengers
+Ethan Glover: 47 buses, 1168 passengers
+Euron Greyjoy: 233 buses, 1340 passengers
+Eustace Brune: 14 buses, 2829 passengers
+Eustace Hunter: 208 buses, 2023 passengers
+Eustace Osgrey: 341 buses, 1683 passengers
+Eyron Stark: 478 buses, 2784 passengers
+Fair Walda Frey: 411 buses, 904 passengers
+Falia Flowers: 429 buses, 1573 passengers
+Farlen: 218 buses, 2172 passengers
+Fat Walda Frey: 215 buses, 220 passengers
+Fern: 286 buses, 153 passengers
+Ferny: 435 buses, 1622 passengers
+Ferrego Antaryon: 366 buses, 365 passengers
+Ferret: 79 buses, 2215 passengers
+Flement Brax: 187 buses, 231 passengers
+Fogo: 104 buses, 1738 passengers
+Forley Prester: 462 buses, 1971 passengers
+Fralegg: 266 buses, 720 passengers
+Franklyn Fowler: 19 buses, 447 passengers
+Franklyn Frey: 179 buses, 2839 passengers
+Frenken: 349 buses, 1220 passengers
+Frynne: 405 buses, 2644 passengers
+Gage: 460 buses, 1907 passengers
+Galbart Glover: 166 buses, 38 passengers
+Galladon Of Tarth: 244 buses, 1605 passengers
+Gallard: 232 buses, 2943 passengers
+Galtry the Green: 31 buses, 2703 passengers
+Gareth Clifton: 304 buses, 1944 passengers
+Gareth the Grey: 458 buses, 1330 passengers
+Garin: 398 buses, 1361 passengers
+Gariss: 297 buses, 2568 passengers
+Garizon: 204 buses, 1436 passengers
+Garlan Tyrell: 298 buses, 719 passengers
+Garrett Flowers: 281 buses, 2899 passengers
+Garrett Paege: 79 buses, 2505 passengers
+Garrison Prester: 466 buses, 779 passengers
+Garse Flowers: 153 buses, 1540 passengers
+Garse Goodbrook: 4 buses, 1175 passengers
+Garth: 18 buses, 730 passengers
+Garth Gardener: 460 buses, 1506 passengers
+Garth Greenfield: 160 buses, 1138 passengers
+Garth Hightower: 368 buses, 2817 passengers
+Garth Tyrell: 96 buses, 2125 passengers
+Garth XII Gardener: 22 buses, 672 passengers
+Gascoyne: 397 buses, 1003 passengers
+Gawen Glover: 301 buses, 2955 passengers
+Gawen Swann: 90 buses, 1970 passengers
+Gawen Westerling: 191 buses, 1715 passengers
+Gawen Wylde: 114 buses, 871 passengers
+Gelmarr: 295 buses, 1647 passengers
+Gendel: 103 buses, 1298 passengers
+Gendry: 65 buses, 1902 passengers
+Gerald Gower: 301 buses, 2380 passengers
+Gerardys: 150 buses, 2765 passengers
+Geremy Frey: 31 buses, 531 passengers
+Gergen: 491 buses, 1302 passengers
+Gerion Lannister: 336 buses, 2592 passengers
+Germund Botley: 180 buses, 501 passengers
+Gerold Dayne: 159 buses, 2952 passengers
+Gerold Grafton: 149 buses, 226 passengers
+Gerold Hightower: 483 buses, 1584 passengers
+Gerold Lannister: 130 buses, 469 passengers
+Gerren: 176 buses, 2930 passengers
+Gevin Harlaw: 225 buses, 1594 passengers
+Ghael: 449 buses, 2538 passengers
+Ghost Of High Heart: 452 buses, 2779 passengers
+Gilbert Farring: 99 buses, 358 passengers
+Gillam: 444 buses, 2076 passengers
+Gilly: 429 buses, 2073 passengers
+Gilwood Hunter: 267 buses, 1460 passengers
+Gladden Wylde: 64 buses, 2274 passengers
+Glendon Flowers: 383 buses, 2072 passengers
+Glendon Hewett: 22 buses, 95 passengers
+Godric Borrell: 146 buses, 2011 passengers
+Godry Farring: 133 buses, 1246 passengers
+Godwyn: 329 buses, 320 passengers
+Goodwin: 172 buses, 1254 passengers
+Gorghan Of Old Ghis: 327 buses, 429 passengers
+Gormon: 162 buses, 1574 passengers
+Gormon Peake: 493 buses, 1848 passengers
+Gormon Tyrell: 104 buses, 2339 passengers
+Gormond Drumm: 19 buses, 2856 passengers
+Gormond Goodbrother: 437 buses, 914 passengers
+Gorne: 306 buses, 2409 passengers
+Gorold Goodbrother: 469 buses, 64 passengers
+Gowen Baratheon: 406 buses, 2367 passengers
+Gran Goodbrother: 184 buses, 2617 passengers
+Grance Morrigen: 47 buses, 2270 passengers
+Grazdan: 412 buses, 570 passengers
+Grazdan mo Ullhor: 330 buses, 241 passengers
+Greatheart: 163 buses, 2751 passengers
+Greenbeard: 359 buses, 2961 passengers
+Gregor Clegane: 358 buses, 2164 passengers
+Grenn: 231 buses, 11 passengers
+Gretchel: 101 buses, 693 passengers
+Grey Worm: 452 buses, 739 passengers
+Greydon Goodbrother: 7 buses, 2697 passengers
+Griffin King: 256 buses, 1412 passengers
+Grigg: 105 buses, 47 passengers
+Grisel: 256 buses, 258 passengers
+Groleo: 420 buses, 1803 passengers
+Grubbs: 6 buses, 126 passengers
+Gueren: 115 buses, 495 passengers
+Gulian: 493 buses, 1813 passengers
+Gulian Qorgyle: 331 buses, 1731 passengers
+Gulian Swann: 121 buses, 1591 passengers
+Gunthor: 367 buses, 2593 passengers
+Gunthor Hightower: 73 buses, 59 passengers
+Guthor Grimm: 390 buses, 2570 passengers
+Guyard Morrigen: 133 buses, 1873 passengers
+Guyne: 15 buses, 488 passengers
+Gwayne Corbray: 129 buses, 1317 passengers
+Gwin Goodbrother: 435 buses, 1148 passengers
+Gwynesse Harlaw: 249 buses, 15 passengers
+Gylbert Farwynd: 307 buses, 2446 passengers
+Gyles: 97 buses, 79 passengers
+Gyles Farwynd: 23 buses, 1882 passengers
+Gyles Grafton: 189 buses, 2587 passengers
+Gyles III Gardener: 295 buses, 805 passengers
+Gynir: 4 buses, 2014 passengers
+Gysella Goodbrother: 74 buses, 32 passengers
+H: 422 buses, 437 passengers
+Haegon Blackfyre: 463 buses, 1898 passengers
+Haereg: 401 buses, 724 passengers
+Haggo: 140 buses, 198 passengers
+Hake: 152 buses, 492 passengers
+Hal: 211 buses, 1147 passengers
+Halder: 50 buses, 2421 passengers
+Hali: 428 buses, 1812 passengers
+Halleck: 52 buses, 1592 passengers
+Hallis Mollen: 334 buses, 826 passengers
+Halmon Paege: 395 buses, 2672 passengers
+Halys Hornwood: 171 buses, 1706 passengers
+Harbert: 288 buses, 355 passengers
+Harbert Paege: 408 buses, 2054 passengers
+Hareth: 128 buses, 2885 passengers
+Harlan Grandison: 105 buses, 2584 passengers
+Harlan Hunter: 384 buses, 323 passengers
+Harlen Tyrell: 361 buses, 1345 passengers
+Harlon Botley: 39 buses, 1535 passengers
+Harlon Greyjoy: 16 buses, 558 passengers
+Harma: 233 buses, 2240 passengers
+Harmen Uller: 242 buses, 2429 passengers
+Harmond Umber: 230 buses, 2978 passengers
+Harmund Sharp: 349 buses, 1465 passengers
+Harmune: 181 buses, 2327 passengers
+Harodon: 422 buses, 787 passengers
+Harra: 147 buses, 723 passengers
+Harrag Hoare: 378 buses, 2282 passengers
+Harrag Sharp: 125 buses, 2114 passengers
+Harras Harlaw: 467 buses, 25 passengers
+Harren: 12 buses, 1235 passengers
+Harren Botley: 141 buses, 2016 passengers
+Harren Hoare: 67 buses, 2101 passengers
+Harrion Karstark: 58 buses, 2959 passengers
+Harrold Hardyng: 192 buses, 1874 passengers
+Harrold Osgrey: 357 buses, 1487 passengers
+Harry Sawyer: 397 buses, 2128 passengers
+Harsley: 262 buses, 1236 passengers
+Harwin: 23 buses, 1580 passengers
+Harwood Fell: 434 buses, 1099 passengers
+Harwood Stout: 338 buses, 2787 passengers
+Harwyn Hoare: 491 buses, 615 passengers
+Harwyn Plumm: 443 buses, 140 passengers
+Harys Haigh: 242 buses, 342 passengers
+Harys Swyft: 392 buses, 255 passengers
+Hayhead: 416 buses, 2266 passengers
+Helicent Uffering: 319 buses, 1092 passengers
+Helliweg: 59 buses, 2813 passengers
+Helly: 51 buses, 1789 passengers
+Helman Tallhart: 180 buses, 1202 passengers
+Helya: 92 buses, 562 passengers
+Hendry Bracken: 190 buses, 1954 passengers
+Henk: 481 buses, 235 passengers
+Henly: 175 buses, 1621 passengers
+Herbert Bolling: 173 buses, 1745 passengers
+Heward: 374 buses, 2946 passengers
+Hibald: 415 buses, 1858 passengers
+Hilmar Drumm: 182 buses, 1638 passengers
+Hobb: 269 buses, 1855 passengers
+Hobber Redwyne: 46 buses, 2044 passengers
+Hod: 173 buses, 2047 passengers
+Hodor: 177 buses, 1352 passengers
+Hoke: 402 buses, 2415 passengers
+Hop Robin: 145 buses, 1773 passengers
+Horas Redwyne: 326 buses, 1348 passengers
+Horton Redfort: 218 buses, 1832 passengers
+Hosman Norcross: 142 buses, 550 passengers
+Hosteen Frey: 375 buses, 1887 passengers
+Hostella Frey: 473 buses, 530 passengers
+Hoster Frey: 203 buses, 2067 passengers
+Hoster Tully: 142 buses, 1988 passengers
+Hot Pie: 150 buses, 343 passengers
+Hother Umber: 24 buses, 1656 passengers
+Hotho Harlaw: 44 buses, 569 passengers
+Howland Reed: 471 buses, 1838 passengers
+Hugh: 356 buses, 422 passengers
+Hugh Beesbury: 49 buses, 1239 passengers
+Hugh Clifton: 82 buses, 1552 passengers
+Hugo Vance: 403 buses, 2399 passengers
+Hugo Wull: 320 buses, 1702 passengers
+Hullen: 245 buses, 2729 passengers
+Humfrey Beesbury: 93 buses, 2507 passengers
+Humfrey Hardyng: 192 buses, 2039 passengers
+Humfrey Hewett: 79 buses, 2569 passengers
+Humfrey Hightower: 31 buses, 2042 passengers
+Humfrey Swyft: 246 buses, 1725 passengers
+Humfrey Wagstaff: 264 buses, 2313 passengers
+Humfrey Waters: 419 buses, 1229 passengers
+Hyle Hunt: 243 buses, 1219 passengers
+Iggo: 273 buses, 2878 passengers
+Igon Vyrwel: 495 buses, 306 passengers
+Illifer: 34 buses, 1634 passengers
+Illyrio Mopatis: 35 buses, 2518 passengers
+Ilyn Payne: 380 buses, 2919 passengers
+Imry Florent: 56 buses, 970 passengers
+Ironbelly: 193 buses, 1346 passengers
+Irri: 88 buses, 822 passengers
+Jacelyn Bywater: 426 buses, 2187 passengers
+Jack Be Lucky: 5 buses, 2326 passengers
+Jack Bulwer: 43 buses, 2698 passengers
+Jacks: 49 buses, 1504 passengers
+Jaehaerys I Targaryen: 158 buses, 2284 passengers
+Jaehaerys II Targaryen: 87 buses, 2851 passengers
+Jafer Flowers: 259 buses, 128 passengers
+Jaggot: 212 buses, 1402 passengers
+Jaime Frey: 292 buses, 1642 passengers
+Jaime Lannister: 99 buses, 551 passengers
+Jammos Frey: 343 buses, 2533 passengers
+Janei Lannister: 53 buses, 1486 passengers
+Janna Tyrell: 473 buses, 195 passengers
+Janos Slynt: 220 buses, 2425 passengers
+Janyce Hunter: 337 buses, 2418 passengers
+Jaqen Hghar: 268 buses, 377 passengers
+Jared Frey: 453 buses, 1016 passengers
+Jarl: 117 buses, 1434 passengers
+Jason Mallister: 276 buses, 1448 passengers
+Jasper Arryn: 1 buses, 2420 passengers
+Jasper Redfort: 113 buses, 2203 passengers
+Jasper Waynwood: 308 buses, 115 passengers
+Jate: 21 buses, 2640 passengers
+Jayde: 184 buses, 2184 passengers
+Jeffory Mallister: 456 buses, 722 passengers
+Jeffory Norcross: 484 buses, 2316 passengers
+Jennelyn Fowler: 458 buses, 1474 passengers
+Jenny: 250 buses, 1296 passengers
+Jeor Mormont: 149 buses, 966 passengers
+Jeren: 349 buses, 995 passengers
+Jeyne: 469 buses, 2683 passengers
+Jeyne Beesbury: 244 buses, 2520 passengers
+Jeyne Darry: 291 buses, 233 passengers
+Jeyne Farman: 320 buses, 2167 passengers
+Jeyne Fossoway: 180 buses, 2440 passengers
+Jeyne Fowler: 20 buses, 2557 passengers
+Jeyne Goodbrook: 318 buses, 1664 passengers
+Jeyne Heddle: 261 buses, 461 passengers
+Jeyne Lothston: 229 buses, 310 passengers
+Jeyne Lydden: 451 buses, 2514 passengers
+Jeyne Poole: 475 buses, 579 passengers
+Jeyne Rivers: 383 buses, 2304 passengers
+Jeyne Royce: 140 buses, 1673 passengers
+Jeyne Swann: 231 buses, 665 passengers
+Jeyne Waters: 264 buses, 345 passengers
+Jeyne Westerling: 106 buses, 2281 passengers
+Jhaqo: 195 buses, 2391 passengers
+Jhiqui: 309 buses, 2065 passengers
+Jhogo: 353 buses, 222 passengers
+Joanna Lannister: 246 buses, 424 passengers
+Joanna Swyft: 474 buses, 1816 passengers
+Jocelyn Swyft: 261 buses, 555 passengers
+Jodge: 477 buses, 175 passengers
+Joffrey Baratheon: 99 buses, 733 passengers
+Joffrey Caswell: 411 buses, 1462 passengers
+Jojen Reed: 396 buses, 2143 passengers
+Jommo: 156 buses, 2346 passengers
+Jon: 59 buses, 49 passengers
+Jon Arryn: 492 buses, 2459 passengers
+Jon Bettley: 339 buses, 2912 passengers
+Jon Brax: 13 buses, 184 passengers
+Jon Bulwer: 387 buses, 777 passengers
+Jon Connington: 255 buses, 2600 passengers
+Jon Cupps: 438 buses, 1976 passengers
+Jon Fossoway: 250 buses, 2596 passengers
+Jon Heddle: 87 buses, 1730 passengers
+Jon Lynderly: 365 buses, 1835 passengers
+Jon Myre: 200 buses, 135 passengers
+Jon Penny: 51 buses, 2276 passengers
+Jon Penrose: 49 buses, 131 passengers
+Jon Pox: 432 buses, 1632 passengers
+Jon Redfort: 135 buses, 2174 passengers
+Jon Snow: 361 buses, 1041 passengers
+Jon Stark: 190 buses, 763 passengers
+Jon Umber: 153 buses, 2396 passengers
+Jon Vance: 369 buses, 2615 passengers
+Jon Waters: 143 buses, 2071 passengers
+Jon Wylde: 263 buses, 511 passengers
+Jonella Cerwyn: 406 buses, 887 passengers
+Jonnel Stark: 278 buses, 742 passengers
+Jonos Bracken: 352 buses, 649 passengers
+Jonos Frey: 120 buses, 670 passengers
+Jonos Stark: 329 buses, 410 passengers
+Jonothor Darry: 237 buses, 1077 passengers
+Jorah Mormont: 282 buses, 1896 passengers
+Jorah Stark: 166 buses, 603 passengers
+Joramun: 291 buses, 1255 passengers
+Jorelle Mormont: 118 buses, 938 passengers
+Jorgen: 440 buses, 1142 passengers
+Jorquen: 127 buses, 242 passengers
+Jory Cassel: 37 buses, 181 passengers
+Joseran: 466 buses, 1189 passengers
+Joseth: 119 buses, 1748 passengers
+Joseth Mallister: 74 buses, 652 passengers
+Josmyn Peckledon: 147 buses, 655 passengers
+Joss: 72 buses, 882 passengers
+Joss Stilwood: 258 buses, 712 passengers
+Josua Willum: 237 buses, 2070 passengers
+Joth Quickbow: 51 buses, 2764 passengers
+Joy Hill: 253 buses, 1826 passengers
+Joyeuse Erenford: 273 buses, 1795 passengers
+Jurne: 287 buses, 2358 passengers
+Jyana: 326 buses, 1260 passengers
+Jyanna Frey: 186 buses, 726 passengers
+Jyck: 11 buses, 1135 passengers
+Jynessa Blackmont: 159 buses, 1509 passengers
+Jyzene: 323 buses, 619 passengers
+Kaeth: 82 buses, 691 passengers
+Karl: 257 buses, 813 passengers
+Karlon Stark: 480 buses, 2233 passengers
+Karyl Vance: 228 buses, 2322 passengers
+Kedge: 179 buses, 2309 passengers
+Kedry: 350 buses, 208 passengers
+Kella: 384 buses, 2840 passengers
+Kemmett Pyke: 199 buses, 1466 passengers
+Kenned: 184 buses, 2321 passengers
+Kennos Of Kayce: 305 buses, 1668 passengers
+Ketter: 163 buses, 1204 passengers
+Kevan Lannister: 310 buses, 118 passengers
+Khal Drogo: 450 buses, 1072 passengers
+Khorane Sathmantes: 426 buses, 398 passengers
+Kirby Pimm: 82 buses, 864 passengers
+Kirth Vance: 448 buses, 1671 passengers
+Koss: 431 buses, 1368 passengers
+Kraznys mo Nakloz: 268 buses, 668 passengers
+Kromm: 409 buses, 2632 passengers
+Kurleket: 202 buses, 895 passengers
+Kurz: 156 buses, 2431 passengers
+Kyle: 76 buses, 1652 passengers
+Kyle Condon: 407 buses, 2761 passengers
+Kyle Royce: 188 buses, 150 passengers
+Kym: 245 buses, 1810 passengers
+Kyra: 334 buses, 2102 passengers
+Kyra Frey: 41 buses, 936 passengers
+Lady Of the Leaves: 67 buses, 2482 passengers
+Lambert Turnberry: 331 buses, 960 passengers
+Lancel Lannister: 388 buses, 2647 passengers
+Lanna: 32 buses, 1755 passengers
+Lanna Lannister: 53 buses, 616 passengers
+Larence Snow: 259 buses, 434 passengers
+Lark: 83 buses, 2768 passengers
+Larra Blackmont: 425 buses, 699 passengers
+Layna: 403 buses, 2247 passengers
+Lazy Leo: 333 buses, 1182 passengers
+Leana Frey: 490 buses, 2400 passengers
+Lem: 474 buses, 1441 passengers
+Lenn: 464 buses, 1456 passengers
+Lennocks: 381 buses, 2767 passengers
+Lenwood Tawney: 364 buses, 2341 passengers
+Lenyl: 352 buses, 2704 passengers
+Leo Blackbar: 132 buses, 484 passengers
+Leo Lefford: 440 buses, 673 passengers
+Leo Tyrell: 442 buses, 1952 passengers
+Leobald Tallhart: 387 buses, 1685 passengers
+Leona Tyrell: 183 buses, 2130 passengers
+Leona Woolfield: 158 buses, 2705 passengers
+Leonella Lefford: 368 buses, 1305 passengers
+Leonette Fossoway: 413 buses, 749 passengers
+Leslyn Haigh: 213 buses, 2366 passengers
+Lester: 305 buses, 1444 passengers
+Lester Morrigen: 300 buses, 2503 passengers
+Lew: 129 buses, 1378 passengers
+Lewyn Martell: 468 buses, 252 passengers
+Lewys: 96 buses, 2156 passengers
+Lewys Lydden: 157 buses, 2934 passengers
+Lewys Piper: 276 buses, 773 passengers
+Leyla Hightower: 320 buses, 1033 passengers
+Leyton Hightower: 16 buses, 354 passengers
+Lharys: 127 buses, 1659 passengers
+Lia Serry: 327 buses, 2137 passengers
+Liane Vance: 306 buses, 2642 passengers
+Lister: 62 buses, 2493 passengers
+Lomas Estermont: 27 buses, 2599 passengers
+Lommy Greenhands: 431 buses, 2594 passengers
+Lomys: 241 buses, 2666 passengers
+Loras Tyrell: 138 buses, 985 passengers
+Lorcas: 488 buses, 224 passengers
+Lord Ashford: 371 buses, 855 passengers
+Lord Cafferen: 446 buses, 1815 passengers
+Lord Caswell: 191 buses, 60 passengers
+Lord Walder Frey: 60 buses, 144 passengers
+Loren Lannister: 179 buses, 108 passengers
+Lorent Lorch: 487 buses, 2212 passengers
+Lorent Tyrell: 393 buses, 2195 passengers
+Loreza Sand: 175 buses, 1166 passengers
+Lorimer: 389 buses, 404 passengers
+Lormelle Long Lance: 283 buses, 1471 passengers
+Lorren: 35 buses, 1116 passengers
+Lothar: 134 buses, 1723 passengers
+Lothar Frey: 209 buses, 2582 passengers
+Lothor Brune: 142 buses, 1575 passengers
+Lucamore Strong: 146 buses, 581 passengers
+Lucan: 20 buses, 1963 passengers
+Lucantine Woodwright: 357 buses, 2895 passengers
+Lucas Blackwood: 230 buses, 2631 passengers
+Lucas Codd: 6 buses, 324 passengers
+Lucas Corbray: 462 buses, 2481 passengers
+Lucas Inchfield: 272 buses, 586 passengers
+Lucas Lothston: 228 buses, 1194 passengers
+Lucas Nayland: 258 buses, 1786 passengers
+Lucas Roote: 423 buses, 2880 passengers
+Lucas Tyrell: 400 buses, 1517 passengers
+Luceon Frey: 2 buses, 520 passengers
+Lucias Vypren: 65 buses, 761 passengers
+Lucimore Botley: 34 buses, 2289 passengers
+Lucion Lannister: 241 buses, 2646 passengers
+Luco Prestayn: 443 buses, 2980 passengers
+Lucos: 69 buses, 2749 passengers
+Lucos Chyttering: 267 buses, 1782 passengers
+Luke: 396 buses, 1146 passengers
+Lum: 17 buses, 1654 passengers
+Luthor Tyrell: 359 buses, 1299 passengers
+Luwin: 427 buses, 1857 passengers
+Lyanna Mormont: 30 buses, 785 passengers
+Lyanna Stark: 274 buses, 2393 passengers
+Lyessa Flint: 95 buses, 1399 passengers
+Lyle Crakehall: 9 buses, 301 passengers
+Lyman Darry: 395 buses, 2244 passengers
+Lymond Goodbrook: 451 buses, 207 passengers
+Lymond Lychester: 387 buses, 2089 passengers
+Lymond Vikary: 72 buses, 832 passengers
+Lyn Corbray: 57 buses, 2261 passengers
+Lync: 389 buses, 1149 passengers
+Lynesse Hightower: 401 buses, 1925 passengers
+Lyonel Baratheon: 476 buses, 1867 passengers
+Lyonel Corbray: 28 buses, 757 passengers
+Lyonel Frey: 214 buses, 1333 passengers
+Lyonel Selmy: 250 buses, 468 passengers
+Lyonel Tyrell: 66 buses, 515 passengers
+Lyra Mormont: 362 buses, 927 passengers
+Lysa Meadows: 362 buses, 2810 passengers
+Lysa Tully: 16 buses, 1853 passengers
+Lythene Frey: 147 buses, 592 passengers
+Mace Tyrell: 114 buses, 2521 passengers
+Mad Axe: 166 buses, 1663 passengers
+Mad Huntsman: 322 buses, 633 passengers
+Maddy: 413 buses, 690 passengers
+Maege Mormont: 403 buses, 1475 passengers
+Maegelle Frey: 245 buses, 2239 passengers
+Maegor I Targaryen: 290 buses, 2061 passengers
+Maekar I Targaryen: 217 buses, 1124 passengers
+Maelys Blackfyre: 292 buses, 2019 passengers
+Maerie: 201 buses, 2508 passengers
+Mag Mar Tun Doh Weg: 416 buses, 2499 passengers
+Maggy: 434 buses, 2653 passengers
+Mago: 339 buses, 2332 passengers
+Mallador Locke: 407 buses, 402 passengers
+Malleon: 299 buses, 2590 passengers
+Mallor: 48 buses, 367 passengers
+Malora Hightower: 80 buses, 204 passengers
+Malwyn Frey: 345 buses, 809 passengers
+Mance Rayder: 205 buses, 2527 passengers
+Mandon Moore: 164 buses, 680 passengers
+Manfred Dondarrion: 97 buses, 2345 passengers
+Manfred Lothston: 126 buses, 648 passengers
+Manfred Swann: 234 buses, 2124 passengers
+Manfrey Martell: 381 buses, 2280 passengers
+Manfryd Lothston: 137 buses, 356 passengers
+Manfryd Yew: 441 buses, 464 passengers
+Marei: 393 buses, 1927 passengers
+Margaery Tyrell: 333 buses, 1883 passengers
+Margot Lannister: 254 buses, 2369 passengers
+Marianne Vance: 461 buses, 1707 passengers
+Maric Seaworth: 461 buses, 284 passengers
+Marillion: 307 buses, 2157 passengers
+Marissa Frey: 380 buses, 2092 passengers
+Mariya Darry: 310 buses, 35 passengers
+Mark Mullendore: 267 buses, 754 passengers
+Mark Ryswell: 117 buses, 1771 passengers
+Marlon Manderly: 374 buses, 1525 passengers
+Maron Botley: 472 buses, 240 passengers
+Maron Greyjoy: 312 buses, 2024 passengers
+Maron Martell: 302 buses, 288 passengers
+Maron Volmark: 10 buses, 880 passengers
+Marq Piper: 377 buses, 1233 passengers
+Marsella Waynwood: 311 buses, 781 passengers
+Martyn Cassel: 293 buses, 2639 passengers
+Martyn Lannister: 488 buses, 1241 passengers
+Martyn Mullendore: 185 buses, 455 passengers
+Martyn Rivers: 453 buses, 1762 passengers
+Marwyn: 261 buses, 854 passengers
+Marwyn Belmore: 428 buses, 491 passengers
+Marya Seaworth: 491 buses, 2948 passengers
+Masha Heddle: 435 buses, 2451 passengers
+Maslyn: 363 buses, 2913 passengers
+Mathis Frey: 328 buses, 2752 passengers
+Mathis Rowan: 55 buses, 2448 passengers
+Matrice: 102 buses, 716 passengers
+Matt: 185 buses, 1025 passengers
+Matthar: 186 buses, 370 passengers
+Matthos Seaworth: 81 buses, 277 passengers
+Maynard: 18 buses, 725 passengers
+Maynard Plumm: 61 buses, 2224 passengers
+Mebble: 35 buses, 713 passengers
+Medgar Tully: 330 buses, 2565 passengers
+Medger Cerwyn: 338 buses, 2995 passengers
+Medwick Tyrell: 412 buses, 314 passengers
+Meera Reed: 280 buses, 2414 passengers
+Meg: 247 buses, 1249 passengers
+Megga Tyrell: 365 buses, 2541 passengers
+Meizo Mahr: 299 buses, 2588 passengers
+Mela: 217 buses, 2671 passengers
+Melaquin: 26 buses, 1259 passengers
+Melara Crane: 13 buses, 2081 passengers
+Melara Hetherspoon: 247 buses, 266 passengers
+Meldred Merlyn: 26 buses, 2272 passengers
+Melesa Crakehall: 285 buses, 962 passengers
+Melessa Florent: 432 buses, 828 passengers
+Meliana: 192 buses, 2271 passengers
+Melisandre: 36 buses, 1005 passengers
+Mellara Rivers: 332 buses, 2585 passengers
+Mellario Of Norvos: 335 buses, 656 passengers
+Mellei: 370 buses, 2713 passengers
+Melly: 408 buses, 772 passengers
+Melwyn Sarsfield: 1 buses, 210 passengers
+Melwys Rivers: 351 buses, 246 passengers
+Meralyn: 357 buses, 1452 passengers
+Meredyth Crane: 483 buses, 265 passengers
+Merianne Frey: 182 buses, 620 passengers
+Meribald: 471 buses, 1443 passengers
+Merlon Crakehall: 222 buses, 1862 passengers
+Mern Gardener: 103 buses, 2277 passengers
+Mero: 444 buses, 1336 passengers
+Merrell Florent: 499 buses, 1542 passengers
+Merrett Frey: 315 buses, 1955 passengers
+Merrit: 342 buses, 2223 passengers
+Meryn Trant: 89 buses, 2056 passengers
+Mhaegan: 209 buses, 793 passengers
+Michael Mertyns: 297 buses, 2997 passengers
+Mikken: 29 buses, 2119 passengers
+Mina Tyrell: 340 buses, 1678 passengers
+Minisa Whent: 379 buses, 1889 passengers
+Mirri Maz Duur: 18 buses, 2502 passengers
+Missandei: 283 buses, 34 passengers
+Mohor: 12 buses, 382 passengers
+Mollander: 456 buses, 26 passengers
+Mollos: 110 buses, 1972 passengers
+Moon Boy: 27 buses, 850 passengers
+Moonshadow: 44 buses, 2834 passengers
+Mord: 294 buses, 2989 passengers
+Mordane: 468 buses, 2063 passengers
+Moreo Tumitis: 341 buses, 1439 passengers
+Morgan Dunstable: 470 buses, 2077 passengers
+Morgarth: 260 buses, 411 passengers
+Morgil: 21 buses, 2153 passengers
+Moribald Chester: 38 buses, 999 passengers
+Moro: 3 buses, 2686 passengers
+Morosh: 497 buses, 1802 passengers
+Morra: 399 buses, 1625 passengers
+Morrec: 136 buses, 2512 passengers
+Mors Manwoody: 324 buses, 789 passengers
+Mors Martell: 220 buses, 2148 passengers
+Mors Umber: 408 buses, 853 passengers
+Mortimer Boggs: 465 buses, 1198 passengers
+Morton Waynwood: 487 buses, 2456 passengers
+Morya Frey: 210 buses, 637 passengers
+Moryn Tyrell: 338 buses, 1495 passengers
+Mudge: 315 buses, 1523 passengers
+Mullin: 213 buses, 257 passengers
+Munda: 376 buses, 566 passengers
+Murch: 380 buses, 248 passengers
+Murenmure: 81 buses, 2977 passengers
+Mya Stone: 1 buses, 2771 passengers
+Mycah: 17 buses, 940 passengers
+Mychel Redfort: 253 buses, 2201 passengers
+Mylenda Caron: 149 buses, 1364 passengers
+Myles: 69 buses, 1004 passengers
+Myles Manwoody: 400 buses, 775 passengers
+Myles Mooton: 370 buses, 1759 passengers
+Myles Smallwood: 22 buses, 2311 passengers
+Mylessa Blackwood: 404 buses, 2010 passengers
+Myranda Royce: 392 buses, 264 passengers
+Myrcella Baratheon: 385 buses, 1288 passengers
+Myria Jordayne: 487 buses, 2547 passengers
+Myriah Martell: 252 buses, 2662 passengers
+Myrielle Lannister: 183 buses, 2241 passengers
+Naerys Targaryen: 176 buses, 952 passengers
+Nage: 86 buses, 1854 passengers
+Naggle: 439 buses, 2397 passengers
+Nan: 168 buses, 1766 passengers
+Narbert: 11 buses, 1741 passengers
+Ned: 467 buses, 2926 passengers
+Nella: 19 buses, 2290 passengers
+Nestor Royce: 317 buses, 1217 passengers
+Nightingale: 300 buses, 2580 passengers
+Nights King: 466 buses, 1425 passengers
+Noho Dimittis: 483 buses, 481 passengers
+Nolla: 76 buses, 759 passengers
+Norbert Vance: 255 buses, 922 passengers
+Norjen: 313 buses, 1697 passengers
+Normund Tyrell: 207 buses, 2821 passengers
+Norne Goodbrother: 337 buses, 2253 passengers
+Norren: 81 buses, 2983 passengers
+Notch: 391 buses, 2107 passengers
+Nute: 80 buses, 1930 passengers
+Nymella Toland: 354 buses, 1331 passengers
+Nymeria: 350 buses, 2910 passengers
+Nymeria Sand: 22 buses, 2719 passengers
+Nymos: 284 buses, 2097 passengers
+O: 58 buses, 263 passengers
+Obara Sand: 202 buses, 2958 passengers
+Obella Sand: 54 buses, 1419 passengers
+Oberyn Martell: 225 buses, 2379 passengers
+Ocley: 41 buses, 305 passengers
+Ogo: 77 buses, 2559 passengers
+Old Grey Gull: 277 buses, 997 passengers
+Old Tattersalt: 382 buses, 849 passengers
+Olene Tyrell: 192 buses, 2825 passengers
+Olenna Redwyne: 454 buses, 1018 passengers
+Ollidor: 155 buses, 234 passengers
+Ollo Lophand: 14 buses, 238 passengers
+Olymer Tyrell: 6 buses, 848 passengers
+Olyvar Frey: 398 buses, 2093 passengers
+Olyvar Martell: 57 buses, 1489 passengers
+Olyvar Oakheart: 363 buses, 2747 passengers
+Omer Blackberry: 55 buses, 1355 passengers
+Omer Florent: 64 buses, 1747 passengers
+Ondrew Locke: 112 buses, 2288 passengers
+Orbelo: 26 buses, 948 passengers
+Orbert Caswell: 114 buses, 2831 passengers
+Orell: 107 buses, 480 passengers
+Orivel: 132 buses, 2228 passengers
+Orland: 381 buses, 2058 passengers
+Ormond: 462 buses, 1473 passengers
+Ormond Osgrey: 303 buses, 2372 passengers
+Oro Tendyris: 377 buses, 820 passengers
+Orton Merryweather: 271 buses, 2472 passengers
+Orys Baratheon: 385 buses, 2147 passengers
+Osbert Serry: 258 buses, 2098 passengers
+Osha: 328 buses, 1655 passengers
+Osmund Frey: 129 buses, 2191 passengers
+Osmund Kettleblack: 263 buses, 1344 passengers
+Osmynd: 159 buses, 888 passengers
+Osric Stark: 356 buses, 553 passengers
+Ossifer Plumm: 354 buses, 357 passengers
+Ossy: 240 buses, 2726 passengers
+Oswell Whent: 474 buses, 472 passengers
+Othell Yarwyck: 207 buses, 1918 passengers
+Otho Bracken: 404 buses, 17 passengers
+Othor: 228 buses, 752 passengers
+Otter Gimpknee: 416 buses, 420 passengers
+Otto Hightower: 244 buses, 1953 passengers
+Ottomore: 139 buses, 1524 passengers
+Ottyn Wythers: 43 buses, 2641 passengers
+Owen Inchfield: 94 buses, 1435 passengers
+Owen Merryweather: 279 buses, 939 passengers
+Owen Norrey: 111 buses, 2146 passengers
+Palla: 139 buses, 1082 passengers
+Parmen Crane: 139 buses, 1879 passengers
+Patchface: 409 buses, 470 passengers
+Pate: 136 buses, 2902 passengers
+Pate Of the Blue Fork: 213 buses, 1733 passengers
+Pate the Pig Boy: 3 buses, 416 passengers
+Patrek Mallister: 336 buses, 1469 passengers
+Patrek Vance: 222 buses, 83 passengers
+Paxter Redwyne: 235 buses, 2357 passengers
+Pearse Caron: 11 buses, 2711 passengers
+Perestan: 281 buses, 2283 passengers
+Perra Frey: 98 buses, 606 passengers
+Perra Royce: 223 buses, 2738 passengers
+Perriane Frey: 47 buses, 2002 passengers
+Perros Blackmont: 258 buses, 2544 passengers
+Perwyn Frey: 83 buses, 1358 passengers
+Perwyn Osgrey: 397 buses, 2832 passengers
+Peter Plumm: 322 buses, 2634 passengers
+Petyr Baelish: 358 buses, 542 passengers
+Petyr Frey: 364 buses, 1915 passengers
+Philip Foote: 30 buses, 2516 passengers
+Philip Plumm: 475 buses, 910 passengers
+Pia: 100 buses, 585 passengers
+Plummer: 476 buses, 2823 passengers
+Podrick Payne: 464 buses, 1210 passengers
+Polliver: 447 buses, 90 passengers
+Pono: 194 buses, 379 passengers
+Porther: 62 buses, 2112 passengers
+Portifer: 353 buses, 1558 passengers
+Portifer Woodwright: 348 buses, 2504 passengers
+Poxy Tym: 125 buses, 1276 passengers
+Praed: 181 buses, 2463 passengers
+Prendahl na Ghezn: 372 buses, 2263 passengers
+Preston Greenfield: 249 buses, 1392 passengers
+Puckens: 105 buses, 2428 passengers
+Pudding: 234 buses, 2849 passengers
+Puddingfoot: 204 buses, 2338 passengers
+Pycelle: 131 buses, 209 passengers
+Pylos: 377 buses, 1724 passengers
+Pypar: 274 buses, 2160 passengers
+Qalen: 134 buses, 1938 passengers
+Qarl: 189 buses, 2552 passengers
+Qarlton Chelsted: 484 buses, 1693 passengers
+Qarro Volentin: 242 buses, 1669 passengers
+Qhored Hoare: 118 buses, 22 passengers
+Qos: 235 buses, 378 passengers
+Qotho: 197 buses, 868 passengers
+Quaithe: 8 buses, 2626 passengers
+Quaro: 48 buses, 1708 passengers
+Quellon Botley: 108 buses, 2376 passengers
+Quellon Greyjoy: 56 buses, 2693 passengers
+Quellon Humble: 330 buses, 1775 passengers
+Quent: 146 buses, 1244 passengers
+Quenten Banefort: 58 buses, 803 passengers
+Quentin Tyrell: 249 buses, 2993 passengers
+Quenton Greyjoy: 9 buses, 61 passengers
+Quenton Hightower: 135 buses, 215 passengers
+Quentyn Ball: 252 buses, 1171 passengers
+Quentyn Blackwood: 290 buses, 1328 passengers
+Quentyn Martell: 319 buses, 1666 passengers
+Quentyn Qorgyle: 464 buses, 1825 passengers
+Quincy Cox: 95 buses, 1163 passengers
+Quort: 431 buses, 1513 passengers
+Qyburn: 312 buses, 709 passengers
+Qyle: 406 buses, 159 passengers
+Rafe: 269 buses, 636 passengers
+Rafford: 13 buses, 706 passengers
+Ragnor Pyke: 360 buses, 2734 passengers
+Ragwyle: 193 buses, 2111 passengers
+Rakharo: 392 buses, 1341 passengers
+Ralf: 10 buses, 482 passengers
+Ralf Kenning: 207 buses, 1134 passengers
+Ralf Stonehouse: 70 buses, 1769 passengers
+Ramsay Bolton: 414 buses, 2268 passengers
+Randa: 202 buses, 2543 passengers
+Randyll Tarly: 405 buses, 413 passengers
+Rast: 53 buses, 536 passengers
+Rat Cook: 91 buses, 385 passengers
+Rattleshirt: 107 buses, 2867 passengers
+Ravella Swann: 134 buses, 1606 passengers
+Rawney: 7 buses, 674 passengers
+Raymar Royce: 457 buses, 1868 passengers
+Raymond Nayland: 161 buses, 247 passengers
+Raymun: 268 buses, 2847 passengers
+Raymun Darry: 421 buses, 2302 passengers
+Raymun Fossoway: 218 buses, 582 passengers
+Raymund Frey: 106 buses, 2135 passengers
+Raymund Tyrell: 430 buses, 1926 passengers
+Raynald Westerling: 84 buses, 1582 passengers
+Raynard: 318 buses, 741 passengers
+Raynard Ruttiger: 141 buses, 2724 passengers
+Red Oarsman: 124 buses, 1739 passengers
+Red Walder Frey: 257 buses, 121 passengers
+Redtusk: 64 buses, 435 passengers
+Reek: 109 buses, 2712 passengers
+Regenard Estren: 241 buses, 1607 passengers
+Renly Baratheon: 148 buses, 2727 passengers
+Renly Norcross: 2 buses, 1106 passengers
+Reynard Webber: 455 buses, 1307 passengers
+Reysen: 343 buses, 119 passengers
+Rhaegar Frey: 134 buses, 992 passengers
+Rhaegar Targaryen: 433 buses, 702 passengers
+Rhaego: 461 buses, 924 passengers
+Rhaenys Targaryen: 28 buses, 1313 passengers
+Rhea Florent: 399 buses, 2571 passengers
+Rhialta Vance: 148 buses, 2673 passengers
+Rhllor: 101 buses, 859 passengers
+Rhogoro: 227 buses, 1628 passengers
+Rhonda Rowan: 248 buses, 2460 passengers
+Ricasso: 303 buses, 1990 passengers
+Richard Farrow: 332 buses, 2287 passengers
+Richard Horpe: 140 buses, 2492 passengers
+Richard Lonmouth: 288 buses, 543 passengers
+Rickard Karstark: 70 buses, 1768 passengers
+Rickard Ryswell: 232 buses, 477 passengers
+Rickard Stark: 243 buses, 2618 passengers
+Rickard Tyrell: 45 buses, 170 passengers
+Rickard Wylde: 222 buses, 2475 passengers
+Rickon Stark: 329 buses, 490 passengers
+Rigney: 161 buses, 675 passengers
+Rob: 288 buses, 353 passengers
+Robar Royce: 482 buses, 694 passengers
+Robb Reyne: 63 buses, 1342 passengers
+Robb Stark: 86 buses, 1507 passengers
+Robert Arryn: 360 buses, 1457 passengers
+Robert Ashford: 365 buses, 510 passengers
+Robert Baratheon: 414 buses, 2385 passengers
+Robert Brax: 495 buses, 1996 passengers
+Robert Flowers: 293 buses, 1010 passengers
+Robert Frey: 468 buses, 1539 passengers
+Robert Paege: 53 buses, 838 passengers
+Robett Glover: 108 buses, 1408 passengers
+Robin: 412 buses, 229 passengers
+Robin Flint: 32 buses, 1224 passengers
+Robin Greyjoy: 107 buses, 934 passengers
+Robin Hill: 123 buses, 453 passengers
+Robin Moreland: 434 buses, 163 passengers
+Robin Potter: 438 buses, 806 passengers
+Robin Ryger: 187 buses, 2133 passengers
+Robyn Rhysling: 296 buses, 644 passengers
+Rodrik Cassel: 144 buses, 1468 passengers
+Rodrik Flint: 100 buses, 182 passengers
+Rodrik Freeborn: 420 buses, 509 passengers
+Rodrik Greyjoy: 405 buses, 1265 passengers
+Rodrik Harlaw: 158 buses, 1225 passengers
+Rodrik Ryswell: 247 buses, 1860 passengers
+Rodrik Stark: 38 buses, 2222 passengers
+Rodwell Stark: 164 buses, 1187 passengers
+Roelle: 182 buses, 2674 passengers
+Roger Of Pennytree: 496 buses, 110 passengers
+Roger Ryswell: 373 buses, 2461 passengers
+Rohanne Webber: 131 buses, 609 passengers
+Roland Crakehall: 216 buses, 1750 passengers
+Rolder: 61 buses, 194 passengers
+Rolfe: 177 buses, 111 passengers
+Rollam Westerling: 264 buses, 2079 passengers
+Rolland Darklyn: 24 buses, 462 passengers
+Rolland Longthorpe: 169 buses, 2855 passengers
+Rolland Storm: 40 buses, 780 passengers
+Rolland Uffering: 155 buses, 817 passengers
+Rolley: 93 buses, 2370 passengers
+Rolph Spicer: 458 buses, 1042 passengers
+Romny Weaver: 282 buses, 1967 passengers
+Ronald Vance: 248 buses, 1581 passengers
+Ronel Rivers: 471 buses, 148 passengers
+Ronnel Arryn: 173 buses, 1657 passengers
+Ronnel Harclay: 415 buses, 1757 passengers
+Ronnel Stout: 131 buses, 101 passengers
+Ronnet Connington: 364 buses, 677 passengers
+Roone: 237 buses, 2602 passengers
+Roose Bolton: 236 buses, 1160 passengers
+Roose Ryswell: 214 buses, 348 passengers
+Rorge: 222 buses, 2548 passengers
+Roro Uhoris: 172 buses, 986 passengers
+Roryn Drumm: 95 buses, 2068 passengers
+Rosamund Lannister: 379 buses, 1528 passengers
+Rosey: 31 buses, 1983 passengers
+Roslin Frey: 71 buses, 1287 passengers
+Rowena Arryn: 151 buses, 2078 passengers
+Royce Coldwater: 333 buses, 1243 passengers
+Rudge: 54 buses, 2455 passengers
+Rufus Leek: 391 buses, 1062 passengers
+Runceford Redwyne: 90 buses, 313 passengers
+Runcel Hightower: 351 buses, 1999 passengers
+Rupert Brax: 236 buses, 788 passengers
+Rupert Crabb: 136 buses, 212 passengers
+Rus: 447 buses, 978 passengers
+Russell Merryweather: 119 buses, 1538 passengers
+Ryam: 270 buses, 1153 passengers
+Ryam Florent: 157 buses, 3000 passengers
+Ryam Redwyne: 385 buses, 641 passengers
+Rycherd Crane: 383 buses, 217 passengers
+Ryella Frey: 234 buses, 808 passengers
+Ryella Royce: 195 buses, 1367 passengers
+Ryger Rivers: 310 buses, 2532 passengers
+Ryk: 414 buses, 2863 passengers
+Rylene Florent: 54 buses, 2013 passengers
+Ryman Frey: 233 buses, 213 passengers
+Rymolf: 124 buses, 1589 passengers
+Ryon Allyrion: 154 buses, 414 passengers
+Salladhor Saan: 348 buses, 1410 passengers
+Sallei Paege: 437 buses, 528 passengers
+Salloreon: 443 buses, 2894 passengers
+Sam Stoops: 389 buses, 1658 passengers
+Samwell Spicer: 88 buses, 2444 passengers
+Samwell Stone: 265 buses, 2833 passengers
+Samwell Tarly: 179 buses, 1752 passengers
+Sand Snakes: 456 buses, 791 passengers
+Sandor Clegane: 65 buses, 1672 passengers
+Sandor Frey: 143 buses, 2032 passengers
+Sansa Stark: 72 buses, 2864 passengers
+Sarella Sand: 496 buses, 892 passengers
+Sargon Botley: 216 buses, 1310 passengers
+Sarra Frey: 357 buses, 2501 passengers
+Sarya Whent: 101 buses, 2479 passengers
+Satin: 410 buses, 1705 passengers
+Sawane Botley: 233 buses, 506 passengers
+Sawwood: 448 buses, 2685 passengers
+Sebaston Farman: 46 buses, 2739 passengers
+Sedgekins: 196 buses, 2691 passengers
+Selmond Stackspear: 272 buses, 1776 passengers
+Selwyn Tarth: 373 buses, 244 passengers
+Selyse Florent: 448 buses, 2904 passengers
+Senelle: 234 buses, 2511 passengers
+Serala: 309 buses, 1385 passengers
+Serenei Of Lys: 486 buses, 2773 passengers
+Serra Frey: 212 buses, 2506 passengers
+Serwyn: 500 buses, 576 passengers
+Shadd: 356 buses, 1521 passengers
+Shadrich: 358 buses, 1814 passengers
+Shae: 208 buses, 827 passengers
+Shagga: 221 buses, 588 passengers
+Shagwell: 296 buses, 1482 passengers
+Sharna: 161 buses, 1319 passengers
+Shella Whent: 219 buses, 2298 passengers
+Sherrit: 76 buses, 837 passengers
+Shiera Crakehall: 424 buses, 307 passengers
+Shiera Seastar: 124 buses, 1560 passengers
+Shierle Swyft: 355 buses, 2852 passengers
+Shirei Frey: 485 buses, 900 passengers
+Shyra: 462 buses, 1011 passengers
+Shyra Errol: 481 buses, 493 passengers
+Sigfry Stonetree: 239 buses, 1822 passengers
+Sigfryd Harlaw: 267 buses, 375 passengers
+Sigorn: 490 buses, 717 passengers
+Sigrin: 345 buses, 432 passengers
+Simon Leygood: 424 buses, 1644 passengers
+Simon Toyne: 137 buses, 1242 passengers
+Skittrick: 142 buses, 632 passengers
+Sky Blue Su: 312 buses, 2517 passengers
+Skyte: 171 buses, 1207 passengers
+Sleepy Jack: 171 buses, 2246 passengers
+Smiling Knight: 313 buses, 1110 passengers
+Softfoot: 295 buses, 1380 passengers
+Spotted Pate the Pig Boy: 203 buses, 2720 passengers
+Squint: 64 buses, 282 passengers
+Stafford Lannister: 321 buses, 10 passengers
+Stannis Baratheon: 334 buses, 1500 passengers
+Stannis Seaworth: 440 buses, 2374 passengers
+Steffarion Sparr: 488 buses, 2690 passengers
+Steffon Baratheon: 170 buses, 440 passengers
+Steffon Fossoway: 190 buses, 1125 passengers
+Steffon Frey: 366 buses, 804 passengers
+Steffon Seaworth: 268 buses, 2754 passengers
+Steffon Stackspear: 386 buses, 949 passengers
+Steffon Swyft: 399 buses, 467 passengers
+Steffon Varner: 332 buses, 1442 passengers
+Stevron Frey: 206 buses, 514 passengers
+Stiv: 56 buses, 955 passengers
+Stone Thumbs: 229 buses, 1508 passengers
+Stonehand: 339 buses, 1866 passengers
+Stygg: 251 buses, 286 passengers
+Styr: 43 buses, 2968 passengers
+Sumner Crakehall: 25 buses, 2630 passengers
+Sybell Spicer: 32 buses, 1549 passengers
+Sybelle Locke: 499 buses, 127 passengers
+Sylas: 348 buses, 2387 passengers
+Sylas Flatnose: 486 buses, 45 passengers
+Sylva Santagar: 303 buses, 2572 passengers
+Sylwa Paege: 269 buses, 1917 passengers
+Symon Santagar: 494 buses, 1836 passengers
+Symond Botley: 226 buses, 541 passengers
+Symond Frey: 135 buses, 2696 passengers
+Symond Templeton: 242 buses, 43 passengers
+Syrio Forel: 329 buses, 1215 passengers
+Taena Of Myr: 130 buses, 2733 passengers
+Talbert Serry: 353 buses, 840 passengers
+Tallad: 409 buses, 425 passengers
+Tanselle: 347 buses, 2652 passengers
+Tansy: 328 buses, 2879 passengers
+Tanton Fossoway: 475 buses, 2419 passengers
+Tarle: 138 buses, 1681 passengers
+Temmo: 313 buses, 1284 passengers
+Ternesio Terys: 292 buses, 1485 passengers
+Terrance Lynderly: 325 buses, 2186 passengers
+Terrence Kenning: 8 buses, 2722 passengers
+Terrence Toyne: 26 buses, 587 passengers
+Terro: 456 buses, 2748 passengers
+Theo Frey: 59 buses, 1827 passengers
+Theo Wull: 321 buses, 802 passengers
+Theobald: 135 buses, 1819 passengers
+Theodan Wells: 188 buses, 1359 passengers
+Theodore Tyrell: 287 buses, 1245 passengers
+Theomar Smallwood: 275 buses, 69 passengers
+Theomore: 240 buses, 2323 passengers
+Theomore Harlaw: 74 buses, 1031 passengers
+Theon Greyjoy: 358 buses, 1420 passengers
+Theon Stark: 240 buses, 557 passengers
+Thomax: 98 buses, 2889 passengers
+Thoren Smallwood: 230 buses, 1651 passengers
+Thormor: 457 buses, 2807 passengers
+Thoros Of Myr: 459 buses, 1353 passengers
+Three Tooth: 116 buses, 764 passengers
+Tickler: 209 buses, 703 passengers
+Tim Stone: 493 buses, 623 passengers
+Timeon: 400 buses, 1222 passengers
+Timett: 208 buses, 2115 passengers
+Timon: 450 buses, 2485 passengers
+Timoth: 371 buses, 2413 passengers
+Tion Frey: 345 buses, 2306 passengers
+Titus Peake: 484 buses, 540 passengers
+Tobbot: 33 buses, 1690 passengers
+Tobho Mott: 413 buses, 268 passengers
+Todder: 178 buses, 701 passengers
+Todric: 227 buses, 2947 passengers
+Toefinger: 354 buses, 1631 passengers
+Tom Costayne: 23 buses, 1515 passengers
+Tom Of Sevenstreams: 226 buses, 664 passengers
+Tom Too: 86 buses, 529 passengers
+Tomard: 497 buses, 193 passengers
+Tommard Heddle: 494 buses, 103 passengers
+Tommen Baratheon: 378 buses, 1726 passengers
+Tommen Costayne: 308 buses, 1446 passengers
+Tommen II Lannister: 42 buses, 2131 passengers
+Toregg: 297 buses, 2802 passengers
+Tormund: 249 buses, 567 passengers
+Torrek: 36 buses, 1974 passengers
+Torren Liddle: 224 buses, 1717 passengers
+Torrhen Karstark: 316 buses, 1387 passengers
+Torrhen Stark: 355 buses, 1942 passengers
+Torwold Browntooth: 116 buses, 1201 passengers
+Torwynd: 316 buses, 2359 passengers
+Tothmure: 433 buses, 2918 passengers
+Trebor Jordayne: 482 buses, 328 passengers
+Tregar: 478 buses, 1273 passengers
+Tregar Ormollen: 266 buses, 968 passengers
+Tremond Gargalen: 437 buses, 963 passengers
+Tristan Mudd: 254 buses, 548 passengers
+Tristan Ryger: 129 buses, 1208 passengers
+Tristifer Botley: 297 buses, 2803 passengers
+Tristifer IV Mudd: 259 buses, 397 passengers
+Tristifer V Mudd: 497 buses, 2474 passengers
+Tristimun: 204 buses, 534 passengers
+Triston: 205 buses, 1989 passengers
+Triston Farwynd: 137 buses, 292 passengers
+Triston Sunderland: 352 buses, 1240 passengers
+Trystane Martell: 163 buses, 2250 passengers
+Tuffleberry: 7 buses, 2614 passengers
+Tumberjon: 75 buses, 2329 passengers
+Turnip: 125 buses, 2331 passengers
+Turquin: 200 buses, 1965 passengers
+Tya Lannister: 217 buses, 1058 passengers
+Tyana Wylde: 394 buses, 1818 passengers
+Tybolt Crakehall: 198 buses, 1388 passengers
+Tybolt Hetherspoon: 170 buses, 2144 passengers
+Tybolt Lannister: 25 buses, 1173 passengers
+Tyene Sand: 262 buses, 676 passengers
+Tygett Lannister: 429 buses, 1329 passengers
+Tymor: 246 buses, 608 passengers
+Tyrek Lannister: 91 buses, 1230 passengers
+Tyrion Lannister: 391 buses, 2161 passengers
+Tyrion Waters: 17 buses, 984 passengers
+Tysane Frey: 94 buses, 1488 passengers
+Tysha: 372 buses, 2942 passengers
+Tyta Frey: 420 buses, 1599 passengers
+Tytos Blackwood: 417 buses, 1505 passengers
+Tytos Brax: 87 buses, 2254 passengers
+Tytos Frey: 489 buses, 1433 passengers
+Tytos Lannister: 414 buses, 1323 passengers
+Tywin Frey: 61 buses, 612 passengers
+Tywin Lannister: 317 buses, 459 passengers
+Ulf: 164 buses, 133 passengers
+Uller: 343 buses, 384 passengers
+Ulrick Dayne: 415 buses, 1852 passengers
+Ulwyck Uller: 376 buses, 1047 passengers
+Umfred: 468 buses, 1159 passengers
+Umma: 275 buses, 537 passengers
+Urek: 9 buses, 564 passengers
+Urras Ironfoot: 335 buses, 225 passengers
+Urrigon Greyjoy: 91 buses, 830 passengers
+Urron Greyiron: 29 buses, 2217 passengers
+Urzen: 169 buses, 392 passengers
+Utherydes Wayn: 57 buses, 964 passengers
+Uthor Tollett: 359 buses, 2021 passengers
+Uthor Underleaf: 17 buses, 2476 passengers
+Vaellyn: 126 buses, 1277 passengers
+Val: 285 buses, 443 passengers
+Varamyr Sixskins: 106 buses, 1937 passengers
+Vardis Egen: 132 buses, 1892 passengers
+Vargo Hoat: 58 buses, 173 passengers
+Varly: 446 buses, 583 passengers
+Varys: 92 buses, 2549 passengers
+Vayon Poole: 33 buses, 816 passengers
+Vickon Botley: 170 buses, 2800 passengers
+Vickon Greyjoy: 121 buses, 2901 passengers
+Victaria Tyrell: 126 buses, 1285 passengers
+Victarion Greyjoy: 41 buses, 141 passengers
+Victor Tyrell: 111 buses, 1767 passengers
+Violet: 265 buses, 1263 passengers
+Viserys I Targaryen: 23 buses, 2657 passengers
+Viserys II Targaryen: 245 buses, 631 passengers
+Viserys Plumm: 470 buses, 401 passengers
+Vortimer Crane: 363 buses, 1981 passengers
+Vylarr: 355 buses, 1890 passengers
+Vyman: 224 buses, 2252 passengers
+Walda Frey: 341 buses, 786 passengers
+Walda Rivers: 113 buses, 2999 passengers
+Walder Brax: 78 buses, 961 passengers
+Walder Frey: 283 buses, 326 passengers
+Walder Goodbrook: 232 buses, 967 passengers
+Walder Haigh: 163 buses, 2721 passengers
+Walder Rivers: 188 buses, 1035 passengers
+Walder Vance: 388 buses, 2100 passengers
+Waldon Wynch: 423 buses, 165 passengers
+Walgrave: 219 buses, 2679 passengers
+Wallace Waynwood: 167 buses, 2196 passengers
+Wallen: 238 buses, 1590 passengers
+Walton: 194 buses, 1212 passengers
+Walton Frey: 270 buses, 1570 passengers
+Walton Stark: 48 buses, 2991 passengers
+Waltyr Frey: 436 buses, 2893 passengers
+Warren: 396 buses, 1394 passengers
+Warryn Beesbury: 375 buses, 485 passengers
+Wat: 20 buses, 2229 passengers
+Watt Of Long Lake: 441 buses, 2775 passengers
+Watty: 114 buses, 2660 passengers
+Waymar Royce: 60 buses, 1123 passengers
+Wayn: 286 buses, 626 passengers
+Weasel: 449 buses, 154 passengers
+Weeper: 70 buses, 2434 passengers
+Weese: 486 buses, 1393 passengers
+Wendamyr: 425 buses, 951 passengers
+Wendel Frey: 69 buses, 1237 passengers
+Wendel Manderly: 232 buses, 2561 passengers
+Wendell Webber: 499 buses, 1614 passengers
+Werlag: 419 buses, 2218 passengers
+Wex Pyke: 344 buses, 824 passengers
+Whalen Frey: 376 buses, 317 passengers
+White Walda Frey: 257 buses, 1630 passengers
+Wilbert: 417 buses, 1841 passengers
+Wilbert Osgrey: 396 buses, 2897 passengers
+Will: 36 buses, 1610 passengers
+Will Humble: 378 buses, 1615 passengers
+Willam: 366 buses, 340 passengers
+Willam Dustin: 403 buses, 1888 passengers
+Willam Stark: 35 buses, 1627 passengers
+Willam Wythers: 374 buses, 2884 passengers
+Willamen Frey: 119 buses, 2914 passengers
+Willas Tyrell: 220 buses, 1878 passengers
+Willem Darry: 196 buses, 2583 passengers
+Willem Frey: 498 buses, 1923 passengers
+Willem Lannister: 445 buses, 2398 passengers
+Willem Wylde: 160 buses, 1406 passengers
+William Mooton: 212 buses, 944 passengers
+Willifer: 336 buses, 2166 passengers
+Willis Wode: 294 buses, 1821 passengers
+Willit: 78 buses, 519 passengers
+Willow Heddle: 434 buses, 2853 passengers
+Willum: 20 buses, 1665 passengers
+Wolmer: 52 buses, 2676 passengers
+Wulfe: 279 buses, 2324 passengers
+Wyl: 116 buses, 925 passengers
+Wyl Waynwood: 335 buses, 1350 passengers
+Wylis Manderly: 371 buses, 1833 passengers
+Wylla Manderly: 162 buses, 728 passengers
+Wyman Manderly: 314 buses, 642 passengers
+Wyman Webber: 500 buses, 2279 passengers
+Wynafrei Whent: 427 buses, 13 passengers
+Wynafryd Manderly: 96 buses, 2477 passengers
+Wynton Stout: 481 buses, 1238 passengers
+Ygon Farwynd: 484 buses, 304 passengers
+Ygritte: 385 buses, 2083 passengers
+Yna: 150 buses, 1847 passengers
+Yohn Farwynd: 394 buses, 923 passengers
+Yohn Royce: 155 buses, 516 passengers
+Yoren: 497 buses, 1214 passengers
+Yorko Terys: 191 buses, 30 passengers
+Yormwell: 318 buses, 2354 passengers
+Ysilla Royce: 323 buses, 1397 passengers
+Zachery Frey: 324 buses, 1499 passengers
+Zarabelo: 198 buses, 2708 passengers
+Zei: 300 buses, 2154 passengers
+Zhoe Blanetree: 374 buses, 1104 passengers
+Zia Frey: 450 buses, 1477 passengers
+Zollo: 436 buses, 1784 passengers
+> X best
+1. Wyman Webber: 500 buses, 2279 passengers
+> X worst
+1624. Melwyn Sarsfield: 1 buses, 210 passengers
+> E
+> P
+> A
+> Q

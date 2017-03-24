@@ -1,0 +1,90 @@
+> R peanuts.dat
+> A
+Charles Brown: 1000 buses, 5000 passengers
+Eudora: 10 buses, 20 passengers
+Franklin: 10 buses, 30 passengers
+Frieda: 1000 buses, 4999 passengers
+Linus van Pelt: 50 buses, 10 passengers
+Lucy van Pelt: 1000 buses, 3 passengers
+Marcie: 50 buses, 30 passengers
+Patty: 1000 buses, 5002 passengers
+Peppermint Patty: 50 buses, 20 passengers
+Rerun van Pelt: 1 buses, 1 passengers
+Sally Brown: 10 buses, 10 passengers
+Schroeder: 1000 buses, 504 passengers
+Shermy: 1000 buses, 1000000 passengers
+Violet Gray: 1000 buses, 10 passengers
+> X min
+> E
+> A
+> R peanuts2.dat
+> X max
+> P
+1. Floyd: 1000 buses, 1000001 passengers
+2. Charlotte Braun: 1000 buses, 5001 passengers
+3. Ethan: 1000 buses, 2 passengers
+4. Crybaby Boobie: 50 buses, 25 passengers
+5. Clara: 10 buses, 50 passengers
+6. Cormac: 10 buses, 25 passengers
+> E
+> P
+> R peanuts.dat
+> P
+1. Shermy: 1000 buses, 1000000 passengers
+2. Patty: 1000 buses, 5002 passengers
+3. Charles Brown: 1000 buses, 5000 passengers
+4. Frieda: 1000 buses, 4999 passengers
+5. Schroeder: 1000 buses, 504 passengers
+6. Violet Gray: 1000 buses, 10 passengers
+7. Lucy van Pelt: 1000 buses, 3 passengers
+8. Marcie: 50 buses, 30 passengers
+9. Peppermint Patty: 50 buses, 20 passengers
+10. Linus van Pelt: 50 buses, 10 passengers
+11. Franklin: 10 buses, 30 passengers
+12. Eudora: 10 buses, 20 passengers
+13. Sally Brown: 10 buses, 10 passengers
+14. Rerun van Pelt: 1 buses, 1 passengers
+> R peanuts2.dat
+> P
+1. Floyd: 1000 buses, 1000001 passengers
+2. Shermy: 1000 buses, 1000000 passengers
+3. Patty: 1000 buses, 5002 passengers
+4. Charlotte Braun: 1000 buses, 5001 passengers
+5. Charles Brown: 1000 buses, 5000 passengers
+6. Frieda: 1000 buses, 4999 passengers
+7. Schroeder: 1000 buses, 504 passengers
+8. Violet Gray: 1000 buses, 10 passengers
+9. Lucy van Pelt: 1000 buses, 3 passengers
+10. Ethan: 1000 buses, 2 passengers
+11. Marcie: 50 buses, 30 passengers
+12. Crybaby Boobie: 50 buses, 25 passengers
+13. Peppermint Patty: 50 buses, 20 passengers
+14. Linus van Pelt: 50 buses, 10 passengers
+15. Clara: 10 buses, 50 passengers
+16. Franklin: 10 buses, 30 passengers
+17. Cormac: 10 buses, 25 passengers
+18. Eudora: 10 buses, 20 passengers
+19. Sally Brown: 10 buses, 10 passengers
+20. Rerun van Pelt: 1 buses, 1 passengers
+> A
+Charles Brown: 1000 buses, 5000 passengers
+Charlotte Braun: 1000 buses, 5001 passengers
+Clara: 10 buses, 50 passengers
+Cormac: 10 buses, 25 passengers
+Crybaby Boobie: 50 buses, 25 passengers
+Ethan: 1000 buses, 2 passengers
+Eudora: 10 buses, 20 passengers
+Floyd: 1000 buses, 1000001 passengers
+Franklin: 10 buses, 30 passengers
+Frieda: 1000 buses, 4999 passengers
+Linus van Pelt: 50 buses, 10 passengers
+Lucy van Pelt: 1000 buses, 3 passengers
+Marcie: 50 buses, 30 passengers
+Patty: 1000 buses, 5002 passengers
+Peppermint Patty: 50 buses, 20 passengers
+Rerun van Pelt: 1 buses, 1 passengers
+Sally Brown: 10 buses, 10 passengers
+Schroeder: 1000 buses, 504 passengers
+Shermy: 1000 buses, 1000000 passengers
+Violet Gray: 1000 buses, 10 passengers
+> Q

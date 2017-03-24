@@ -1,0 +1,139 @@
+> R discworld.dat
+> S Death of Rats
+19. Death of Rats: 29 buses, 93 passengers
+> P
+1. Death: 10000 buses, 1000000 passengers
+2. The Luggage: 1243 buses, 14155 passengers
+3. Greebo: 999 buses, 1234 passengers
+4. Gytha Ogg: 923 buses, 4251 passengers
+5. Twoflower: 491 buses, 3425 passengers
+6. Rob Anybody: 453 buses, 9872 passengers
+7. Nobby Nobbs: 430 buses, 431 passengers
+8. Hodgesaargh: 324 buses, 1922 passengers
+9. Detritus: 300 buses, 1230 passengers
+10. Librarian: 231 buses, 5412 passengers
+11. Esmeralda Weatherwax: 201 buses, 3921 passengers
+12. Igor: 153 buses, 345 passengers
+13. Moist von Lipwig: 92 buses, 98 passengers
+14. Mustrum Ridcully: 54 buses, 435 passengers
+15. Agnes Nitt: 53 buses, 123 passengers
+16. Otto Chriek: 52 buses, 100 passengers
+17. Magrat Garlick: 43 buses, 213 passengers
+18. Tiffany Aching: 30 buses, 234 passengers
+19. Death of Rats: 29 buses, 93 passengers
+20. Brutha: 20 buses, 342 passengers
+21. Mightily Oats: 20 buses, 102 passengers
+22. Hex: 15 buses, 243 passengers
+23. Samuel Vimes: 11 buses, 42 passengers
+24. Lady Sybil Ramkin: 10 buses, 42 passengers
+25. Susan Sto Helit: 5 buses, 20 passengers
+26. Jonathan Teatime: 5 buses, 5 passengers
+27. Binky: 4 buses, 34 passengers
+28. Rincewind: 1 buses, 1 passengers
+> A
+Agnes Nitt: 53 buses, 123 passengers
+Binky: 4 buses, 34 passengers
+Brutha: 20 buses, 342 passengers
+Death: 10000 buses, 1000000 passengers
+Death of Rats: 29 buses, 93 passengers
+Detritus: 300 buses, 1230 passengers
+Esmeralda Weatherwax: 201 buses, 3921 passengers
+Greebo: 999 buses, 1234 passengers
+Gytha Ogg: 923 buses, 4251 passengers
+Hex: 15 buses, 243 passengers
+Hodgesaargh: 324 buses, 1922 passengers
+Igor: 153 buses, 345 passengers
+Jonathan Teatime: 5 buses, 5 passengers
+Lady Sybil Ramkin: 10 buses, 42 passengers
+Librarian: 231 buses, 5412 passengers
+Magrat Garlick: 43 buses, 213 passengers
+Mightily Oats: 20 buses, 102 passengers
+Moist von Lipwig: 92 buses, 98 passengers
+Mustrum Ridcully: 54 buses, 435 passengers
+Nobby Nobbs: 430 buses, 431 passengers
+Otto Chriek: 52 buses, 100 passengers
+Rincewind: 1 buses, 1 passengers
+Rob Anybody: 453 buses, 9872 passengers
+Samuel Vimes: 11 buses, 42 passengers
+Susan Sto Helit: 5 buses, 20 passengers
+The Luggage: 1243 buses, 14155 passengers
+Tiffany Aching: 30 buses, 234 passengers
+Twoflower: 491 buses, 3425 passengers
+> X best
+1. Death: 10000 buses, 1000000 passengers
+> X worst
+28. Rincewind: 1 buses, 1 passengers
+> R discworld2.dat
+> X best
+1. Bloody Stupid Johnsson: 20101 buses, 123403 passengers
+> X worst
+32. Rincewind: 1 buses, 1 passengers
+> S Bloody Stupid Johnsson
+1. Bloody Stupid Johnsson: 20101 buses, 123403 passengers
+> A
+Agnes Nitt: 53 buses, 123 passengers
+Binky: 4 buses, 34 passengers
+Bloody Stupid Johnsson: 20101 buses, 123403 passengers
+Boffo: 1 buses, 2 passengers
+Brutha: 20 buses, 342 passengers
+Cohen the Barbarian: 124 buses, 983 passengers
+Death: 10000 buses, 1000000 passengers
+Death of Rats: 29 buses, 93 passengers
+Detritus: 300 buses, 1230 passengers
+Esmeralda Weatherwax: 201 buses, 3921 passengers
+Greebo: 999 buses, 1234 passengers
+Gytha Ogg: 923 buses, 4251 passengers
+Hex: 15 buses, 243 passengers
+Hodgesaargh: 324 buses, 1922 passengers
+Igor: 153 buses, 345 passengers
+Jonathan Teatime: 5 buses, 5 passengers
+Lady Sybil Ramkin: 10 buses, 42 passengers
+Librarian: 231 buses, 5412 passengers
+Magrat Garlick: 43 buses, 213 passengers
+Mightily Oats: 20 buses, 102 passengers
+Moist von Lipwig: 92 buses, 98 passengers
+Mr Tulip: 3042 buses, 13456 passengers
+Mustrum Ridcully: 54 buses, 435 passengers
+Nobby Nobbs: 430 buses, 431 passengers
+Otto Chriek: 52 buses, 100 passengers
+Rincewind: 1 buses, 1 passengers
+Rob Anybody: 453 buses, 9872 passengers
+Samuel Vimes: 11 buses, 42 passengers
+Susan Sto Helit: 5 buses, 20 passengers
+The Luggage: 1243 buses, 14155 passengers
+Tiffany Aching: 30 buses, 234 passengers
+Twoflower: 491 buses, 3425 passengers
+> P
+1. Bloody Stupid Johnsson: 20101 buses, 123403 passengers
+2. Death: 10000 buses, 1000000 passengers
+3. Mr Tulip: 3042 buses, 13456 passengers
+4. The Luggage: 1243 buses, 14155 passengers
+5. Greebo: 999 buses, 1234 passengers
+6. Gytha Ogg: 923 buses, 4251 passengers
+7. Twoflower: 491 buses, 3425 passengers
+8. Rob Anybody: 453 buses, 9872 passengers
+9. Nobby Nobbs: 430 buses, 431 passengers
+10. Hodgesaargh: 324 buses, 1922 passengers
+11. Detritus: 300 buses, 1230 passengers
+12. Librarian: 231 buses, 5412 passengers
+13. Esmeralda Weatherwax: 201 buses, 3921 passengers
+14. Igor: 153 buses, 345 passengers
+15. Cohen the Barbarian: 124 buses, 983 passengers
+16. Moist von Lipwig: 92 buses, 98 passengers
+17. Mustrum Ridcully: 54 buses, 435 passengers
+18. Agnes Nitt: 53 buses, 123 passengers
+19. Otto Chriek: 52 buses, 100 passengers
+20. Magrat Garlick: 43 buses, 213 passengers
+21. Tiffany Aching: 30 buses, 234 passengers
+22. Death of Rats: 29 buses, 93 passengers
+23. Brutha: 20 buses, 342 passengers
+24. Mightily Oats: 20 buses, 102 passengers
+25. Hex: 15 buses, 243 passengers
+26. Samuel Vimes: 11 buses, 42 passengers
+27. Lady Sybil Ramkin: 10 buses, 42 passengers
+28. Susan Sto Helit: 5 buses, 20 passengers
+29. Jonathan Teatime: 5 buses, 5 passengers
+30. Binky: 4 buses, 34 passengers
+31. Boffo: 1 buses, 2 passengers
+32. Rincewind: 1 buses, 1 passengers
+> Q

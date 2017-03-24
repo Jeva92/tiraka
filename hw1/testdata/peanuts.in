@@ -1,0 +1,16 @@
+R peanuts.dat
+A
+X min
+E
+A
+R peanuts2.dat
+X max
+P
+E
+P
+R peanuts.dat
+P
+R peanuts2.dat
+P
+A
+Q

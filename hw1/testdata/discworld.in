@@ -1,0 +1,13 @@
+R discworld.dat
+S Death of Rats
+P
+A
+X best
+X worst
+R discworld2.dat
+X best
+X worst
+S Bloody Stupid Johnsson
+A
+P
+Q

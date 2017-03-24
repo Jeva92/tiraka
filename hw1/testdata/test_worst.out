@@ -1,0 +1,18 @@
+> D Yoda;500;2331
+> X worst
+1. Yoda: 500 buses, 2331 passengers
+> D Anakin;499;2331
+> X worst
+2. Anakin: 499 buses, 2331 passengers
+> D Obi-Wan;499;2330
+> X worst
+3. Obi-Wan: 499 buses, 2330 passengers
+> D Qui-Gon;0;0
+> X worst
+4. Qui-Gon: 0 buses, 0 passengers
+> P
+1. Yoda: 500 buses, 2331 passengers
+2. Anakin: 499 buses, 2331 passengers
+3. Obi-Wan: 499 buses, 2330 passengers
+4. Qui-Gon: 0 buses, 0 passengers
+> Q
